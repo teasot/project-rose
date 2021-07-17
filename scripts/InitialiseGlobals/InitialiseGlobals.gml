@@ -5,10 +5,11 @@ function InitialiseGlobals(){
 	global.UniversalScale = 2;
 	
 	// The language.
-	global.Language = "EN";
+	global.Language = "TEST";
 	
-	global.ScenesJsonPath = "scenes.json";
-	global.ActorsJsonPath = "actors.json";
+	global.ScenesJsonPath = working_directory + "scenes.json";
+	global.ActorsJsonPath = working_directory + "actors.json";
+	
 	// Used for first "step", otherwise always false
 	global.LoadNextScene = true;
 	

@@ -436,6 +436,7 @@
     {"id":{"name":"EVC23","path":"sprites/EVC23/EVC23.yy",},"order":153,},
     {"id":{"name":"EVD47","path":"sprites/EVD47/EVD47.yy",},"order":256,},
     {"id":{"name":"EVA48C","path":"sprites/EVA48C/EVA48C.yy",},"order":73,},
+    {"id":{"name":"DialogueScene_GetDialogueItemLineText","path":"scripts/DialogueScene_GetDialogueItemLineText/DialogueScene_GetDialogueItemLineText.yy",},"order":9,},
     {"id":{"name":"EVD107N","path":"sprites/EVD107N/EVD107N.yy",},"order":0,},
     {"id":{"name":"Game_Step","path":"scripts/Game_Step/Game_Step.yy",},"order":0,},
     {"id":{"name":"EVA04","path":"sprites/EVA04/EVA04.yy",},"order":16,},
@@ -10422,6 +10423,8 @@
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"actors.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"EN_phrases.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"EN_options.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"TEST_options.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"TEST_phrases.json","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2.3.3.570",

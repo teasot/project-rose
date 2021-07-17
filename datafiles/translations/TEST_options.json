@@ -1,0 +1,269 @@
+{
+  "OptionGroup18": {
+    "ID": "OptionGroup18",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Miki",
+      "Juri",
+      "Saijonji",
+      "Utena",
+      "Mysterious person",
+      "Stop talking"
+    ]
+  },
+  "OptionGroup19": {
+    "ID": "OptionGroup19",
+    "Description": null,
+    "Options": [
+      "Fencing club",
+      "Kendo club",
+      "Newspaper club",
+      "Literature club"
+    ]
+  },
+  "OptionGroup27": {
+    "ID": "OptionGroup27",
+    "Description": null,
+    "Options": [
+      "街",
+      "Cafe",
+      "Classical Cafe",
+      "Game Center",
+      "Cake Store",
+      "Japanese Teahouse"
+    ]
+  },
+  "OptionGroup32": {
+    "ID": "OptionGroup32",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Juri",
+      "Saionji",
+      "Miki",
+      "Chigusa"
+    ]
+  },
+  "OptionGroup33": {
+    "ID": "OptionGroup33",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Ask to watch their duel",
+      "Say you want to duel too",
+      "Tell them to stop duels"
+    ]
+  },
+  "OptionGroup34": {
+    "ID": "OptionGroup34",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Utena is strong",
+      "Saijonji is weak",
+      "It's all about luck"
+    ]
+  },
+  "OptionGroup35": {
+    "ID": "OptionGroup35",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Pacify them",
+      "Egg him on",
+      "Distract them"
+    ]
+  },
+  "OptionGroup36": {
+    "ID": "OptionGroup36",
+    "Description": null,
+    "Options": [
+      "自分の部屋",
+      "Utena",
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Chigusa"
+    ]
+  },
+  "OptionGroup45": {
+    "ID": "OptionGroup45",
+    "Description": null,
+    "Options": [
+      "Utena",
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki"
+    ]
+  },
+  "OptionGroup46": {
+    "ID": "OptionGroup46",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Utena"
+    ]
+  },
+  "OptionGroup47": {
+    "ID": "OptionGroup47",
+    "Description": null,
+    "Options": [
+      "Utena",
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki"
+    ]
+  },
+  "OptionGroup65": {
+    "ID": "OptionGroup65",
+    "Description": null,
+    "Options": [
+      "Fencing Club",
+      "Music Room",
+      "Kendo Club",
+      "Chat with Utena"
+    ]
+  },
+  "OptionGroup66": {
+    "ID": "OptionGroup66",
+    "Description": null,
+    "Options": [
+      "剣道部　道場",
+      "Look for Saionji",
+      "Look for Touga",
+      "Go somewhere else"
+    ]
+  },
+  "OptionGroup71": {
+    "ID": "OptionGroup71",
+    "Description": null,
+    "Options": [
+      "街",
+      "Cafe",
+      "Classical Cafe",
+      "Game Center",
+      "Cake Store",
+      "Japanese Teahouse"
+    ]
+  },
+  "OptionGroup74": {
+    "ID": "OptionGroup74",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Chigusa"
+    ]
+  },
+  "OptionGroup75": {
+    "ID": "OptionGroup75",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Yes, please",
+      "Not that kind of girl",
+      "Decline politely"
+    ]
+  },
+  "OptionGroup76": {
+    "ID": "OptionGroup76",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "I'm too scared to sleep",
+      "Next time I'll take 'em",
+      "They were after my body"
+    ]
+  },
+  "OptionGroup77": {
+    "ID": "OptionGroup77",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Don't worry about it",
+      "Tease Miki",
+      "Argue"
+    ]
+  },
+  "OptionGroup78": {
+    "ID": "OptionGroup78",
+    "Description": null,
+    "Options": [
+      "自分の部屋",
+      "Utena",
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Don't consult"
+    ]
+  },
+  "OptionGroup86": {
+    "ID": "OptionGroup86",
+    "Description": null,
+    "Options": [
+      "パーフェクト編",
+      "ウテナラブラブ",
+      "冬芽ラブラブ",
+      "西園寺ラブラブ",
+      "樹璃ラブラブ",
+      "幹ラブラブ"
+    ]
+  },
+  "OptionGroup87": {
+    "ID": "OptionGroup87",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Anthy",
+      "There's nobody"
+    ]
+  },
+  "OptionGroup88": {
+    "ID": "OptionGroup88",
+    "Description": null,
+    "Options": [
+      "Call your parents",
+      "Student Council archives",
+      "Ask Tsuji-sensei",
+      "Newspaper Club",
+      "Search for Chigusa"
+    ]
+  },
+  "OptionGroup89": {
+    "ID": "OptionGroup89",
+    "Description": null,
+    "Options": [
+      "通常",
+      "ウテナラブ",
+      "冬芽ラブ",
+      "西園寺ラブ",
+      "樹璃ラブ",
+      "幹ラブ",
+      "パーフェクトラブ"
+    ]
+  },
+  "OptionGroup91": {
+    "ID": "OptionGroup91",
+    "Description": null,
+    "Options": [
+      "勝ち",
+      "敵取得",
+      "敵がもういない",
+      "敵まだいる",
+      "負け"
+    ]
+  }
+}

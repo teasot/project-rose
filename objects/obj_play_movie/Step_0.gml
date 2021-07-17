@@ -1,11 +1,5 @@
 /// @description Update the frame buffer
 
-// AUDIO TEST
-if(AudioIsPlaying && !audio_is_playing(snd)){
-	AudioIsPlaying = false;
-	 audio_destroy_stream(snd);
-}
-// END
 if (video_exists(v)) {
   if (video_is_playing(v)) {
     video_grab_frame_buffer(v, buffer_get_address(buff));

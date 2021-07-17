@@ -13,8 +13,10 @@ function DialogueScene_BeginNextLine(){
 	CurrentDialogueItemLine = ds_list_find_value(DialogueItemLines, DialogueItemNextLineIndex);
 	
 	
-	DialogueItemLineText = ds_map_find_value(CurrentDialogueItemLine, "Text");
 	DialogueItemLineVoice = ds_map_find_value(CurrentDialogueItemLine, "VoiceLine");
+	DialogueItemLineText = DialogueScene_GetDialogueItemLineText(DialogueItemLineVoice);
+	
+	
 	DialogueItemLineTextLength = string_length(DialogueItemLineText);
 	
 	// Play the voice clip

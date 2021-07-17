@@ -3,7 +3,7 @@
 function ReadJson(file){
 	show_debug_message("Loaded JSON file" + file);
 	
-	var f = file_text_open_read(working_directory + file),
+	var f = file_text_open_read(file),
     jsonStr = "";
 	while (!file_text_eof(f)) {
 	  jsonStr += file_text_read_string(f);

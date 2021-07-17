@@ -4,13 +4,6 @@ v = -1; is_playing = false;
 fname = working_directory + global.Scene_MoviePath + ".webm";
 
 show_debug_message("Playing movie: " + fname)
-// START AUDIO TEST
-AudioIsPlaying = true;
-snd = audio_create_stream("A04.ogg");
-audio_play_sound(snd, 0, true);
-// END AUDIO TEST
-// CONTINUED IN STEP
-
 
 if (file_exists(fname)) {
   v = video_add(fname);
