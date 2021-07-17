@@ -22,7 +22,29 @@ function PanScene_Draw(){
 			
 		// Roses
 		// Top left
-		draw_sprite_ext(F_ROSE01, RoseFrame, -8*global.UniversalScale, -17*global.UniversalScale, global.UniversalScale, global.UniversalScale, 0, c_white, 1);
+		draw_sprite_ext(
+			F_ROSE01, 
+			RoseFrame, 
+			-8*global.UniversalScale, 
+			-17*global.UniversalScale, 
+			global.UniversalScale, 
+			global.UniversalScale, 
+			0, 
+			c_white, 
+			1
+		);
+		// Top right
+		draw_sprite_ext(
+			F_ROSE01,
+			RoseFrame + 4,
+			global.UniversalScreenWidth + 8*global.UniversalScale, 
+			(-17 + 88)*global.UniversalScale,
+			-1*global.UniversalScale, 
+			-1*global.UniversalScale, 
+			0, 
+			c_white,
+			1
+		);
 	}
 	if(ShowDialogueBox == true){
 		Helpers_DrawDialogueBox();

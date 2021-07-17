@@ -1,6 +1,9 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function InitialiseGlobals(){
+	// Is debug
+	global.Debug = true;
+	
 	// The scaling number. Set to 2 by default for double resolution
 	global.UniversalScreenWidth = 640;
 	global.UniversalScreenHeight = 448;
@@ -23,6 +26,9 @@ function InitialiseGlobals(){
 	
 	// Now initialise game state
 	global.Scene_NextSceneId = "Opening";
+	if(global.Debug){
+		global.Scene_NextSceneId = "02_Arrive_School_Pan";
+	}
 	// Load JSON
 	LoadJson();
 	
