@@ -1,9 +1,11 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function InitialiseGlobals(){
+	// The scaling number. Set to 2 by default for double resolution
 	global.UniversalScale = 2;
 	
-	//window_set_size(global.UniversalScale*320, global.UniversalScale*224) 
+	// The language.
+	global.Language = "EN";
 	
 	global.ScenesJsonPath = "scenes.json";
 	global.ActorsJsonPath = "actors.json";

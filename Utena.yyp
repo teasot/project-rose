@@ -10420,8 +10420,8 @@
     {"CopyToMask":-1,"filePath":"datafiles/BGM","resourceVersion":"1.0","name":"TEL_WAKA.wav","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/Translations","resourceVersion":"1.0","name":"EN_phrases.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"actors.json","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"EN_options.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"EN_phrases.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"EN_options.json","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2.3.3.570",
