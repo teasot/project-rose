@@ -1,5 +1,6 @@
 // "Inherits" DialogueScene - call its functions first
 function PanScene_Draw(){
+	var RoseFrame = 8;
 	// First, draw "top" image
 	draw_sprite_ext(asset_get_index(global.Scene_BG_Image_Top), 0, 0, PanPixelsUp - global.UniversalScreenHeight , global.UniversalScale, global.UniversalScale, 0, c_white, 1);
 	
@@ -19,6 +20,9 @@ function PanScene_Draw(){
 		// Bottom
 		draw_sprite_ext(PANNING_FRAME_BOTTOM, 0, 0, 178*global.UniversalScale, global.UniversalScale, global.UniversalScale, 0, c_white, 1);
 			
+		// Roses
+		// Top left
+		draw_sprite_ext(F_ROSE01, RoseFrame, -8*global.UniversalScale, -17*global.UniversalScale, global.UniversalScale, global.UniversalScale, 0, c_white, 1);
 	}
 	if(ShowDialogueBox == true){
 		Helpers_DrawDialogueBox();
