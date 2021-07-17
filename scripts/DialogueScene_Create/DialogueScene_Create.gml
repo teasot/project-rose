@@ -14,9 +14,13 @@ function DialogueScene_Create(){
 	IncrementingDialogueItemLineText = false;
 	MoveToNextDialogue = true;
 	PlayingDialogueSound = false;
+	
 	DialogueLength = ds_list_size(global.Scene_Dialogue_Array);
 	DialogueX = 25;
 	DialogueY = 155;
+	ShowDialogueBox = true;
+	
+	
 	CharacterRenderPriorDelta = 0;
 	
 	NextIconFrame = 0;

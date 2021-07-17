@@ -20,6 +20,14 @@ function LoadScene(Id){
 		global.Scene_Dialogue_Array = ds_map_find_value(global.CurrentSceneObject, "Dialogue");;
 		
 	}
+	else if(global.Scene_Type == "Dialogue_Pan"){
+		global.Scene_BG_Music = ds_map_find_value(global.CurrentSceneObject, "BG_Music");
+		global.Scene_BG_Music_Loops = ds_map_find_value(global.CurrentSceneObject, "BG_Music_Loops");
+		global.Scene_BG_Image_Top = ds_map_find_value(global.CurrentSceneObject, "BG_Image_Top");
+		global.Scene_BG_Image_Bottom = ds_map_find_value(global.CurrentSceneObject, "BG_Image_Bottom");
+		global.Scene_Dialogue_Array = ds_map_find_value(global.CurrentSceneObject, "Dialogue");;
+		
+	}
 	global.Scene_Id = Id;
 	global.Scene_NextSceneId = ds_map_find_value(global.CurrentSceneObject, "Next_Scene_Id");
 	show_debug_message("Scene Loaded: " + Id);

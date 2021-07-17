@@ -3,7 +3,7 @@
         "Type": "Movie",
         "Description": "The corny opening movie",
         "Movie": "MOVIE\\OPENING",
-        "Next_Scene_Id": "Family_Opening"
+        "Next_Scene_Id": "01_Family_Opening"
     },
     "01_Family_Opening": {
         "Type": "Dialogue",

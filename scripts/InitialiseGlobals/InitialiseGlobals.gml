@@ -2,10 +2,12 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function InitialiseGlobals(){
 	// The scaling number. Set to 2 by default for double resolution
+	global.UniversalScreenWidth = 640;
+	global.UniversalScreenHeight = 448;
 	global.UniversalScale = 2;
 	
 	// The language.
-	global.LanguageKey = "JP";
+	global.LanguageKey = "EN";
 	
 	global.ScenesJsonPath = working_directory + "scenes.json";
 	global.ActorsJsonPath = working_directory + "actors.json";

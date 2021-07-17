@@ -18,7 +18,7 @@ if (video_exists(v)) {
 
   // then we just slap the video frame on that surf.
   buffer_set_surface(buff, surf, 0);
-  draw_surface_stretched(surf, 0, 0, 640, 448);
+  draw_surface_stretched(surf, 0, 0, global.UniversalScreenWidth, global.UniversalScreenHeight);
 
   draw_set_alpha(0.75);
   draw_set_color(c_black);

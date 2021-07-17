@@ -12,10 +12,9 @@ function Game_Step(){
 		else if(global.Scene_Type == "Dialogue"){
 			Game_ShowDialogue();
 		}
+		else if(global.Scene_Type == "Dialogue_Pan"){
+			Game_ShowPanScene();
+		}
 		global.LoadNextScene = false;
-	}
-	else
-	{
-		
 	}
 }
