@@ -407,6 +407,7 @@
     {"id":{"name":"EVA11B","path":"sprites/EVA11B/EVA11B.yy",},"order":25,},
     {"id":{"name":"EVD03D","path":"sprites/EVD03D/EVD03D.yy",},"order":179,},
     {"id":{"name":"EVA09B","path":"sprites/EVA09B/EVA09B.yy",},"order":22,},
+    {"id":{"name":"NAME_05","path":"sprites/NAME_05/NAME_05.yy",},"order":56,},
     {"id":{"name":"BG54","path":"sprites/BG54/BG54.yy",},"order":1,},
     {"id":{"name":"EVD110A","path":"sprites/EVD110A/EVD110A.yy",},"order":3,},
     {"id":{"name":"EVD94","path":"sprites/EVD94/EVD94.yy",},"order":318,},
