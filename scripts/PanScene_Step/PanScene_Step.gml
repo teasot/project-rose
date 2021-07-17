@@ -13,5 +13,16 @@ function PanScene_Step(){
 		// When 0, global.UniversalScreenHeight
 		PanPixelsUp = (PanTimeInMicrosecondsInitial - PanTimeInMicroseconds)*(global.UniversalScreenHeight/PanTimeInMicrosecondsInitial);
 	}
+	
+	// Set the "frame" of the next icon
+	NextRoseFrameCountdown = NextRoseFrameCountdown - delta_time;
+	if(NextRoseFrameCountdown <= 0){
+		NextRoseFrame = NextRoseFrame + 1;
+		if(NextRoseFrame >= 16){
+			NextRoseFrame = 0;	
+		}
+		NextRoseFrameCountdown = NextRoseMicrosecondsPerFrame;
+	}
+	
 	DialogueScene_Step();
 }

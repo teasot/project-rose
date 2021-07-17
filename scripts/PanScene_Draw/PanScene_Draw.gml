@@ -24,7 +24,7 @@ function PanScene_Draw(){
 		// Top left
 		draw_sprite_ext(
 			F_ROSE01, 
-			RoseFrame, 
+			NextRoseFrame, 
 			-8*global.UniversalScale, 
 			-17*global.UniversalScale, 
 			global.UniversalScale, 
@@ -36,7 +36,7 @@ function PanScene_Draw(){
 		// Top right
 		draw_sprite_ext(
 			F_ROSE01,
-			RoseFrame + 4,
+			15 - NextRoseFrame,
 			global.UniversalScreenWidth + 8*global.UniversalScale, 
 			(-17 + 88)*global.UniversalScale,
 			-1*global.UniversalScale, 
@@ -48,7 +48,7 @@ function PanScene_Draw(){
 		// Bottom left
 		draw_sprite_ext(
 			F_ROSE01, 
-			RoseFrame, 
+			15 - NextRoseFrame,
 			80*global.UniversalScale, 
 			global.UniversalScreenHeight + 26, 
 			-1*global.UniversalScale, 
@@ -60,7 +60,7 @@ function PanScene_Draw(){
 		// Bottom right
 		draw_sprite_ext(
 			F_ROSE01, 
-			RoseFrame, 
+			NextRoseFrame, 
 			global.UniversalScreenWidth + 8*global.UniversalScale, 
 			global.UniversalScreenHeight + 26, 
 			-1*global.UniversalScale, 

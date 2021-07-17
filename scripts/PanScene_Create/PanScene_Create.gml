@@ -9,6 +9,14 @@ function PanScene_Create(){
 	PanTimeInMicroseconds = PanTimeInMicrosecondsInitial;
 	PanPixelsUp = 0;
 	
+	// Rose animation
+	
+	NextRoseFrame = 0;
+	NextRoseFrameCount = 16;
+	NextRoseFPS = 12;
+	NextRoseMicrosecondsPerFrame = (MicrosecondsPerSecond/NextRoseFPS);
+	NextRoseFrameCountdown = NextIconMicrosecondsPerFrame;
+	
 	// Don't show dialogue box until panning complete
 	ShowDialogueBox = false;
 	
