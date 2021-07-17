@@ -25,7 +25,8 @@ function LoadScene(Id){
 		global.Scene_BG_Music_Loops = ds_map_find_value(global.CurrentSceneObject, "BG_Music_Loops");
 		global.Scene_BG_Image_Top = ds_map_find_value(global.CurrentSceneObject, "BG_Image_Top");
 		global.Scene_BG_Image_Bottom = ds_map_find_value(global.CurrentSceneObject, "BG_Image_Bottom");
-		global.Scene_Dialogue_Array = ds_map_find_value(global.CurrentSceneObject, "Dialogue");;
+		global.Scene_Dialogue_Array = ds_map_find_value(global.CurrentSceneObject, "Dialogue");
+		global.Show_Roses_And_Border = ds_map_find_value(global.CurrentSceneObject, "Show_Roses_And_Border")
 		
 	}
 	global.Scene_Id = Id;

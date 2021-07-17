@@ -303,6 +303,7 @@
     {"id":{"name":"EVD52J","path":"sprites/EVD52J/EVD52J.yy",},"order":273,},
     {"id":{"name":"NAME_20","path":"sprites/NAME_20/NAME_20.yy",},"order":27,},
     {"id":{"name":"NAME_40","path":"sprites/NAME_40/NAME_40.yy",},"order":39,},
+    {"id":{"name":"PANNING_FRAME_LEFT","path":"sprites/PANNING_FRAME_LEFT/PANNING_FRAME_LEFT.yy",},"order":3,},
     {"id":{"name":"EVD03J","path":"sprites/EVD03J/EVD03J.yy",},"order":185,},
     {"id":{"name":"EVA42_D","path":"sprites/EVA42_D/EVA42_D.yy",},"order":66,},
     {"id":{"name":"BG33","path":"sprites/BG33/BG33.yy",},"order":59,},

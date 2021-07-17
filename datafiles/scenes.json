@@ -182,6 +182,7 @@
         "BG_Music_Loops": true,
         "BG_Image_Top": "EVA39_U",
         "BG_Image_Bottom": "EVA39_D",
+        "Show_Roses_And_Border": true,
         "Next_Scene_Id": "03_Oohtori_Intro_Movie",
         "Dialogue": [
             {
