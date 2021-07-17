@@ -13,7 +13,6 @@ function DialogueScene_BeginNextItem()
 	DialogueItemLines = ds_map_find_value(DialogueCurrentItem, "Lines");
 	
 	DialogueItemActorNametag = ds_map_find_value(global.ActorsJson,DialogueItemActor);
-	show_debug_message(DialogueItemActorNametag);
 	
 	DialogueItemNextLineIndex = 0;
 	DialogueItemLinesCount = ds_list_size(DialogueItemLines);

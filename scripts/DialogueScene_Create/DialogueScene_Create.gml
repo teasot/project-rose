@@ -28,6 +28,9 @@ function DialogueScene_Create(){
 	CurrentLineTextToRender = "";
 	PriorTextToRender = "";
 	DialogueItemLineTextLength = 0;
+	
+	DialogueItemActorNametag = "";
+	DialogueItemActorNametagIndex = 0;
 
 	draw_set_colour(c_white);
 	draw_set_halign(fa_left);

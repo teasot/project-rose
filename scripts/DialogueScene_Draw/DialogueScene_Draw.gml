@@ -26,6 +26,12 @@ function DialogueScene_Draw()
 	// Draw the text
 	draw_text_transformed(global.UniversalScale*DialogueX, global.UniversalScale*DialogueY, CurrentLineTextToRender, global.UniversalScale*0.2,global.UniversalScale*0.2, 0);
 	
+	// Draw the nametag on the top of the text box
+	if(DialogueItemActorNametag != ""){
+		
+		draw_sprite_ext(asset_get_index(DialogueItemActorNametag), DialogueItemActorNametagIndex, global.UniversalScale*8, global.UniversalScale*124, global.UniversalScale, global.UniversalScale, 0, c_white, 1);
+	}
+	
 	// Finally add next sprite
 	if(AwaitingUserInput == true){
 		draw_sprite_ext(spr_Next, NextIconFrame, global.UniversalScale*304, global.UniversalScale*207, global.UniversalScale, global.UniversalScale, 0, c_white, 1);
