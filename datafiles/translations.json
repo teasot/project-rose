@@ -1,0 +1,23 @@
+{
+    "EN":{
+        "font": "Arial",
+        "fontScale": 0.8,
+        "extraTopPadding": 0,
+        "phrases": "EN_phrases.json",
+        "options": "EN_options.json"
+    },
+    "TEST":{
+        "font": "Arial",
+        "fontScale": 0.8,
+        "extraTopPadding": 0,
+        "phrases": "TEST_phrases.json",
+        "options": "TEST_options.json"
+    },
+    "JP":{
+        "font": "Tanugo-Regular.otf",
+        "fontScale": 0.8,
+        "extraTopPadding": 10,
+        "phrases": "JP_phrases.json",
+        "options": "JP_options.json"
+    }
+}

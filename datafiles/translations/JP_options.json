@@ -1,0 +1,269 @@
+{
+  "OptionGroup18": {
+    "ID": "OptionGroup18",
+    "Description": null,
+    "Options": [
+      "冬芽",
+      "幹",
+      "樹璃",
+      "西園寺",
+      "ウテナ",
+      "謎の人",
+      "やめる"
+    ]
+  },
+  "OptionGroup19": {
+    "ID": "OptionGroup19",
+    "Description": null,
+    "Options": [
+      "フェンシング部",
+      "剣道部",
+      "新聞部",
+      "文芸部"
+    ]
+  },
+  "OptionGroup27": {
+    "ID": "OptionGroup27",
+    "Description": null,
+    "Options": [
+      "街",
+      "喫茶",
+      "名曲喫茶",
+      "ゲームセンター",
+      "ケーキ屋",
+      "和風茶屋"
+    ]
+  },
+  "OptionGroup32": {
+    "ID": "OptionGroup32",
+    "Description": null,
+    "Options": [
+      "冬芽",
+      "樹璃",
+      "西園寺",
+      "幹",
+      "千種"
+    ]
+  },
+  "OptionGroup33": {
+    "ID": "OptionGroup33",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "決闘の観戦をお願いする",
+      "わたしも決闘したいと言う",
+      "決闘をやめるよう言う"
+    ]
+  },
+  "OptionGroup34": {
+    "ID": "OptionGroup34",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "ウテナが強い",
+      "西園寺が弱い",
+      "勝負は時の運"
+    ]
+  },
+  "OptionGroup35": {
+    "ID": "OptionGroup35",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "なだめる",
+      "けしかける",
+      "２人の注意をそらす"
+    ]
+  },
+  "OptionGroup36": {
+    "ID": "OptionGroup36",
+    "Description": null,
+    "Options": [
+      "自分の部屋",
+      "ウテナ",
+      "冬芽",
+      "西園寺",
+      "樹璃",
+      "幹",
+      "千種"
+    ]
+  },
+  "OptionGroup45": {
+    "ID": "OptionGroup45",
+    "Description": null,
+    "Options": [
+      "ウテナ",
+      "冬芽",
+      "西園寺",
+      "樹璃",
+      "幹"
+    ]
+  },
+  "OptionGroup46": {
+    "ID": "OptionGroup46",
+    "Description": null,
+    "Options": [
+      "冬芽",
+      "西園寺",
+      "樹璃",
+      "幹",
+      "ウテナ"
+    ]
+  },
+  "OptionGroup47": {
+    "ID": "OptionGroup47",
+    "Description": null,
+    "Options": [
+      "ウテナ",
+      "冬芽",
+      "西園寺",
+      "樹璃",
+      "幹"
+    ]
+  },
+  "OptionGroup65": {
+    "ID": "OptionGroup65",
+    "Description": null,
+    "Options": [
+      "フェンシング部",
+      "音楽室",
+      "剣道部",
+      "ウテナたちとおしゃべり"
+    ]
+  },
+  "OptionGroup66": {
+    "ID": "OptionGroup66",
+    "Description": null,
+    "Options": [
+      "剣道部　道場",
+      "西園寺を探す",
+      "冬芽を探す",
+      "他のところにいく"
+    ]
+  },
+  "OptionGroup71": {
+    "ID": "OptionGroup71",
+    "Description": null,
+    "Options": [
+      "街",
+      "喫茶",
+      "名曲喫茶",
+      "ゲームセンター",
+      "ケーキ屋",
+      "和風茶屋"
+    ]
+  },
+  "OptionGroup74": {
+    "ID": "OptionGroup74",
+    "Description": null,
+    "Options": [
+      "冬芽",
+      "西園寺",
+      "樹璃",
+      "幹",
+      "千種"
+    ]
+  },
+  "OptionGroup75": {
+    "ID": "OptionGroup75",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "お願いします",
+      "そんな女じゃありません",
+      "遠慮します"
+    ]
+  },
+  "OptionGroup76": {
+    "ID": "OptionGroup76",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "怖くて眠れません",
+      "今度きたら返り討ちよ",
+      "きっとわたしの体目当てね"
+    ]
+  },
+  "OptionGroup77": {
+    "ID": "OptionGroup77",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "気にしない",
+      "幹をからかう",
+      "反論する"
+    ]
+  },
+  "OptionGroup78": {
+    "ID": "OptionGroup78",
+    "Description": null,
+    "Options": [
+      "自分の部屋",
+      "ウテナ",
+      "冬芽",
+      "西園寺",
+      "樹璃",
+      "幹",
+      "相談しない"
+    ]
+  },
+  "OptionGroup86": {
+    "ID": "OptionGroup86",
+    "Description": null,
+    "Options": [
+      "パーフェクト編",
+      "ウテナラブラブ",
+      "冬芽ラブラブ",
+      "西園寺ラブラブ",
+      "樹璃ラブラブ",
+      "幹ラブラブ"
+    ]
+  },
+  "OptionGroup87": {
+    "ID": "OptionGroup87",
+    "Description": null,
+    "Options": [
+      "冬芽",
+      "西園寺",
+      "樹璃",
+      "幹",
+      "アンシー",
+      "誰もいない"
+    ]
+  },
+  "OptionGroup88": {
+    "ID": "OptionGroup88",
+    "Description": null,
+    "Options": [
+      "両親に電話する",
+      "生徒会資料室に行く",
+      "辻先生に聞いてみる",
+      "新聞部に行く",
+      "千種を探す"
+    ]
+  },
+  "OptionGroup89": {
+    "ID": "OptionGroup89",
+    "Description": null,
+    "Options": [
+      "通常",
+      "ウテナラブ",
+      "冬芽ラブ",
+      "西園寺ラブ",
+      "樹璃ラブ",
+      "幹ラブ",
+      "パーフェクトラブ"
+    ]
+  },
+  "OptionGroup91": {
+    "ID": "OptionGroup91",
+    "Description": null,
+    "Options": [
+      "勝ち",
+      "敵取得",
+      "敵がもういない",
+      "敵まだいる",
+      "負け"
+    ]
+  }
+}

@@ -166,6 +166,7 @@
     {"id":{"name":"EVD85","path":"sprites/EVD85/EVD85.yy",},"order":313,},
     {"id":{"name":"LoadScene","path":"scripts/LoadScene/LoadScene.yy",},"order":2,},
     {"id":{"name":"EVB29H","path":"sprites/EVB29H/EVB29H.yy",},"order":128,},
+    {"id":{"name":"Global_LoadTranslation","path":"scripts/Global_LoadTranslation/Global_LoadTranslation.yy",},"order":5,},
     {"id":{"name":"EVB29B","path":"sprites/EVB29B/EVB29B.yy",},"order":122,},
     {"id":{"name":"EVB22","path":"sprites/EVB22/EVB22.yy",},"order":114,},
     {"id":{"name":"EVC11","path":"sprites/EVC11/EVC11.yy",},"order":145,},
@@ -10425,6 +10426,10 @@
     {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"EN_options.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"TEST_options.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"TEST_phrases.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"JP_phrases.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/translations","resourceVersion":"1.0","name":"JP_options.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"translations.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/fonts","resourceVersion":"1.0","name":"Tanugo-Regular.otf","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2.3.3.570",

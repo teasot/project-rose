@@ -20,11 +20,12 @@ function DialogueScene_Draw()
 	// Draw the fancy border on top of that
 	draw_sprite_ext(spr_TextBox, 0, global.UniversalScale*4, global.UniversalScale*148, global.UniversalScale, global.UniversalScale, 0, c_white, 1);
 	
-	// Set draw colour and alpha (transparency)
+	// Set draw colour, font and alpha (transparency)
 	draw_set_colour(c_white);
 	draw_set_alpha(1);
+	draw_set_font(global.CurrentDialogueFont);
 	// Draw the text
-	draw_text_transformed(global.UniversalScale*DialogueX, global.UniversalScale*DialogueY, CurrentLineTextToRender, global.UniversalScale*0.2,global.UniversalScale*0.2, 0);
+	draw_text_transformed(global.UniversalScale*DialogueX, global.UniversalScale*DialogueY + global.TranslationFontExtraPadding, CurrentLineTextToRender, global.UniversalScale*global.TranslationFontScale,  global.UniversalScale*global.TranslationFontScale, 0);
 	
 	// Draw the nametag on the top of the text box
 	if(DialogueItemActorNametag != ""){
