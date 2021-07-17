@@ -5,13 +5,13 @@
         "Movie": "MOVIE\\OPENING",
         "Next_Scene_Id": "Family_Opening"
     },
-    "Family_Opening": {
+    "01_Family_Opening": {
         "Type": "Dialogue",
         "Description": "Protagonist is transferring to Ohtoori academy",
         "BG_Music": "A04",
         "BG_Music_Loops": true,
         "BG_Image": "EVA01",
-        "Next_Scene_Id": "Oohtori_Intro_Movie",
+        "Next_Scene_Id": "02_Arrive_School_Pan",
         "Dialogue": [
             {
                 "Actor": "Player",
@@ -175,10 +175,200 @@
             }
         ]
     },
-    "Oohtori_Intro_Movie": {
+    "02_Arrive_School_Pan": {
+        "Type": "Dialogue_Pan",
+        "Description": "Pan of the protagonist arriving at Oohtori for the first time",
+        "BG_Music": "A11",
+        "BG_Music_Loops": true,
+        "BG_Image_Top": "EVA39_U",
+        "BG_Image_Bottom": "EVA39_D",
+        "Next_Scene_Id": "03_Oohtori_Intro_Movie",
+        "Dialogue": [
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "So this is Ohtori Academy...",
+                        "VoiceLine": "VA02X001"
+                    }
+                ]
+            }
+        ]
+    },
+    "03_Oohtori_Intro_Movie": {
         "Type": "Movie",
         "Description": "Protagonist is transferring to Ohtoori academy",
         "Movie": "MOVIE\\MVA01",
-        "Next_Scene_Id": ""
+        "Next_Scene_Id": "04_Arrive_Rose_Garden"
+    },
+    "04_Arrive_Rose_Garden": {
+        "Type": "Dialogue",
+        "Description": "Protagonist is transferring to Ohtoori academy",
+        "BG_Music": "A04",
+        "BG_Music_Loops": true,
+        "BG_Image": "EVA01",
+        "Next_Scene_Id": "",
+        "Dialogue": [
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "Transfer schools?",
+                        "VoiceLine": "VA01X001"
+                    }
+                ]
+            },
+            {
+                "Actor": "Father",
+                "Lines": [
+                    {
+                        "Text": "That's right.\r\nYou've heard of it before,\r\nhaven't you?",
+                        "VoiceLine": "VA01X002"
+                    },
+                    {
+                        "Text": "It's a place in Houou City\r\ncalled Ohtori Academy.",
+                        "VoiceLine": "VA01X003"
+                    }
+                ]
+            },
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "Ohtori Academy...?\r\nIsn't that a really prestigious\r\nschool!?",
+                        "VoiceLine": "VA01X004"
+                    }
+                ]
+            },
+            {
+                "Actor": "Mother",
+                "Lines": [
+                    {
+                        "Text": "You know, a long time ago,\r\nyour father used to teach at\r\nOhtori Academy.",
+                        "VoiceLine": "VA01X005"
+                    }
+                ]
+            },
+            {
+                "Actor": "Father",
+                "Lines": [
+                    {
+                        "Text": "Thanks to that connection,\r\nthe Chairman of the Board asked\r\nif we'd like to send you there.",
+                        "VoiceLine": "VA01X006"
+                    },
+                    {
+                        "Text": "So what do you think?\r\nIsn't it a nice offer?",
+                        "VoiceLine": "VA01X007"
+                    }
+                ]
+            },
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "Yeah...",
+                        "VoiceLine": "VA01X008"
+                    }
+                ]
+            },
+            {
+                "Actor": "Father",
+                "Lines": [
+                    {
+                        "Text": "Ohtori Academy is an excellent\r\nplace.",
+                        "VoiceLine": "VA01X009"
+                    }
+                ]
+            },
+            {
+                "Actor": "Mother",
+                "Lines": [
+                    {
+                        "Text": "In fact, it's where your father\r\nand I met.",
+                        "VoiceLine": "VA01X010"
+                    }
+                ]
+            },
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "Really?",
+                        "VoiceLine": "VA01X011"
+                    }
+                ]
+            },
+            {
+                "Actor": "Father",
+                "Lines": [
+                    {
+                        "Text": "That's right... if you go, you\r\nshould check out the fencing hall.",
+                        "VoiceLine": "VA01X012"
+                    },
+                    {
+                        "Text": "It's the pretty, chalk-white\r\nbuilding behind the library.\r\nYou'll recognize it right away.",
+                        "VoiceLine": "VA01X014"
+                    }
+                ]
+            },
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "Dad, you used to be a really\r\nstrong fencer, right?",
+                        "VoiceLine": "VA01X015"
+                    }
+                ]
+            },
+            {
+                "Actor": "Father",
+                "Lines": [
+                    {
+                        "Text": "Yeah.",
+                        "VoiceLine": "VA01X016"
+                    },
+                    {
+                        "Text": "So, when I was at Ohtori, I served\r\nas the Fencing Club's advisor.",
+                        "VoiceLine": "VA01X017"
+                    }
+                ]
+            },
+            {
+                "Actor": "Mother",
+                "Lines": [
+                    {
+                        "Text": "Your father was so dreamy back\r\nthen!",
+                        "VoiceLine": "VA01X018"
+                    }
+                ]
+            },
+            {
+                "Actor": "Father",
+                "Lines": [
+                    {
+                        "Text": "You looked pretty cool too,\r\nin your fencing suit.",
+                        "VoiceLine": "VA01X019"
+                    }
+                ]
+            },
+            {
+                "Actor": "Mother",
+                "Lines": [
+                    {
+                        "Text": "[giggle] I may have looked cool,\r\nbut I wasn't very good...",
+                        "VoiceLine": "VA01X020"
+                    }
+                ]
+            },
+            {
+                "Actor": "Father",
+                "Lines": [
+                    {
+                        "Text": "That's fine.\r\nGirls don't need to be strong...",
+                        "VoiceLine": "VA01X021"
+                    }
+                ]
+            }
+        ]
     }
 }
