@@ -5,8 +5,8 @@ function InitialiseGlobals(){
 	
 	//window_set_size(global.UniversalScale*320, global.UniversalScale*224) 
 	
-	global.JsonPath = "scenes.json";
-	
+	global.ScenesJsonPath = "scenes.json";
+	global.ActorsJsonPath = "actors.json";
 	// Used for first "step", otherwise always false
 	global.LoadNextScene = true;
 	

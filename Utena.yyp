@@ -1205,8 +1205,7 @@
   ],
   "IncludedFiles": [
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"OPENING.webm","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"options.json","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"phrases.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/Translations","resourceVersion":"1.0","name":"EN_options.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"scenes.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/MOVIE","resourceVersion":"1.0","name":"BTL24E1.webm","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/MOVIE","resourceVersion":"1.0","name":"BTL24E2.webm","resourceType":"GMIncludedFile",},
@@ -1343,7 +1342,6 @@
     {"CopyToMask":-1,"filePath":"datafiles/MOVIE","resourceVersion":"1.0","name":"OPENING.webm","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/MOVIE","resourceVersion":"1.0","name":"MVD18.webm","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"text box.png","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"A04.ogg","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/VOICE/VA01X","resourceVersion":"1.0","name":"VA01X001.wav","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/VOICE/VA01X","resourceVersion":"1.0","name":"VA01X002.ogg","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/VOICE/VA01X","resourceVersion":"1.0","name":"VA01X001.ogg","resourceType":"GMIncludedFile",},
@@ -10420,6 +10418,8 @@
     {"CopyToMask":-1,"filePath":"datafiles/BGM","resourceVersion":"1.0","name":"TEL_UTEN.ogg","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/BGM","resourceVersion":"1.0","name":"TEL_UTEN.wav","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/BGM","resourceVersion":"1.0","name":"TEL_WAKA.wav","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/Translations","resourceVersion":"1.0","name":"EN_phrases.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"actors.json","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2.3.3.570",

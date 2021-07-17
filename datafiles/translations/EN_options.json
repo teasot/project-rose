@@ -1,0 +1,866 @@
+[
+  {
+    "ID": "OptionGroup1",
+    "Description": "EVA05",
+    "Options": [
+      "I've got to help her!",
+      "Watch the situation"
+    ]
+  },
+  {
+    "ID": "OptionGroup2",
+    "Description": "EventA07",
+    "Options": [
+      "Do you have a girlfriend?",
+      "Do you have a boyfriend?"
+    ]
+  },
+  {
+    "ID": "OptionGroup3",
+    "Description": "EVA11",
+    "Options": [
+      "Wanna become engaged too",
+      "Change the subject",
+      "Try making a joke"
+    ]
+  },
+  {
+    "ID": "OptionGroup4",
+    "Description": "EventA16",
+    "Options": [
+      "Look at the wall",
+      "Look at the calendar",
+      "Look at the lockers"
+    ]
+  },
+  {
+    "ID": "OptionGroup5",
+    "Description": "FC06a",
+    "Options": [
+      "Praise his eyes",
+      "Make a light joke"
+    ]
+  },
+  {
+    "ID": "OptionGroup6",
+    "Description": "FC07a",
+    "Options": [
+      "Thank him",
+      "Refuse the compliment"
+    ]
+  },
+  {
+    "ID": "OptionGroup7",
+    "Description": "EVA28",
+    "Options": [
+      "Confront him directly",
+      "Distract him"
+    ]
+  },
+  {
+    "ID": "OptionGroup8",
+    "Description": "FC01b",
+    "Options": [
+      "I'll catch the culprit!",
+      "Make a joke"
+    ]
+  },
+  {
+    "ID": "OptionGroup9",
+    "Description": "EventA30",
+    "Options": [
+      "Sleep with Utena",
+      "Sleep alone"
+    ]
+  },
+  {
+    "ID": "OptionGroup10",
+    "Description": "EventB01-1",
+    "Options": [
+      "Chat with Utena",
+      "Leave it at that"
+    ]
+  },
+  {
+    "ID": "OptionGroup11",
+    "Description": "FC08c",
+    "Options": [
+      "Father",
+      "Mother"
+    ]
+  },
+  {
+    "ID": "OptionGroup12",
+    "Description": "GAYA2",
+    "Options": [
+      "Eat outside with Utena",
+      "Eat at the cafeteria"
+    ]
+  },
+  {
+    "ID": "OptionGroup13",
+    "Description": "FC03b",
+    "Options": [
+      "Accept Anthy's lunch",
+      "Continue with hunger"
+    ]
+  },
+  {
+    "ID": "OptionGroup14",
+    "Description": "C14",
+    "Options": [
+      "Answer \"38\"",
+      "Answer \"a+18\""
+    ]
+  },
+  {
+    "ID": "OptionGroup15",
+    "Description": "FC14a",
+    "Options": [
+      "Fight against Juri",
+      "Fight against Miki",
+      "Turn down the offer"
+    ]
+  },
+  {
+    "ID": "OptionGroup16",
+    "Description": "EVB32",
+    "Options": [
+      "Talk to Chigusa",
+      "Talk to Saionji"
+    ]
+  },
+  {
+    "ID": "OptionGroup17",
+    "Description": "SE015",
+    "Options": [
+      "シャワー室",
+      "Ask about why she duels",
+      "Ask about the locket"
+    ]
+  },
+  {
+    "ID": "OptionGroup18",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Miki",
+      "Juri",
+      "Saijonji",
+      "Utena",
+      "Mysterious person",
+      "Stop talking"
+    ]
+  },
+  {
+    "ID": "OptionGroup19",
+    "Description": null,
+    "Options": [
+      "Fencing club",
+      "Kendo club",
+      "Newspaper club",
+      "Literature club"
+    ]
+  },
+  {
+    "ID": "OptionGroup20",
+    "Description": "FC08c",
+    "Options": [
+      "Ask about her illness",
+      "Do you have a girlfriend?",
+      "Do you have a boyfriend?"
+    ]
+  },
+  {
+    "ID": "OptionGroup21",
+    "Description": "Hack1",
+    "Options": [
+      "Stay together longer",
+      "Part ways here"
+    ]
+  },
+  {
+    "ID": "OptionGroup22",
+    "Description": "FC08f",
+    "Options": [
+      "I don't",
+      "Someone I've noticed"
+    ]
+  },
+  {
+    "ID": "OptionGroup23",
+    "Description": "EVB10",
+    "Options": [
+      "紫丁香",
+      "To listen to music ",
+      "Maybe it was fate "
+    ]
+  },
+  {
+    "ID": "OptionGroup24",
+    "Description": "EVB12",
+    "Options": [
+      "ケーキ屋",
+      "Sit alone",
+      "Sit with Miki and Kozue"
+    ]
+  },
+  {
+    "ID": "OptionGroup25",
+    "Description": "EVB13",
+    "Options": [
+      "忍逢",
+      "Praise Japanese tea",
+      "Praise rooibos tea"
+    ]
+  },
+  {
+    "ID": "OptionGroup26",
+    "Description": "Hack2",
+    "Options": [
+      "Answer that you don't",
+      "Answer that you do"
+    ]
+  },
+  {
+    "ID": "OptionGroup27",
+    "Description": null,
+    "Options": [
+      "街",
+      "Cafe",
+      "Classical Cafe",
+      "Game Center",
+      "Cake Store",
+      "Japanese Teahouse"
+    ]
+  },
+  {
+    "ID": "OptionGroup28",
+    "Description": "FC05a",
+    "Options": [
+      "Utena is strong",
+      "Juri is weak",
+      "It is all about luck"
+    ]
+  },
+  {
+    "ID": "OptionGroup29",
+    "Description": "SE015",
+    "Options": [
+      "シャワー室",
+      "Peek",
+      "Don't peek"
+    ]
+  },
+  {
+    "ID": "OptionGroup30",
+    "Description": "FC08g",
+    "Options": [
+      "Slap Chigusa's face",
+      "Make a joke"
+    ]
+  },
+  {
+    "ID": "OptionGroup31",
+    "Description": "EVA38",
+    "Options": [
+      "２３日",
+      "ダウン０２"
+    ]
+  },
+  {
+    "ID": "OptionGroup32",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Juri",
+      "Saionji",
+      "Miki",
+      "Chigusa"
+    ]
+  },
+  {
+    "ID": "OptionGroup33",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Ask to watch their duel",
+      "Say you want to duel too",
+      "Tell them to stop duels"
+    ]
+  },
+  {
+    "ID": "OptionGroup34",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Utena is strong",
+      "Saijonji is weak",
+      "It's all about luck"
+    ]
+  },
+  {
+    "ID": "OptionGroup35",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Pacify them",
+      "Egg him on",
+      "Distract them"
+    ]
+  },
+  {
+    "ID": "OptionGroup36",
+    "Description": null,
+    "Options": [
+      "自分の部屋",
+      "Utena",
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Chigusa"
+    ]
+  },
+  {
+    "ID": "OptionGroup37",
+    "Description": "EVC27",
+    "Options": [
+      "Slide",
+      "Get out of the way"
+    ]
+  },
+  {
+    "ID": "OptionGroup38",
+    "Description": "FC18a",
+    "Options": [
+      "Bake me a cake",
+      "Sing me a song"
+    ]
+  },
+  {
+    "ID": "OptionGroup39",
+    "Description": "FC17d",
+    "Options": [
+      "Shoot her down",
+      "Meekly back down"
+    ]
+  },
+  {
+    "ID": "OptionGroup40",
+    "Description": "FC01b",
+    "Options": [
+      "教室前",
+      "Tell the truth",
+      "I made it with Anthy"
+    ]
+  },
+  {
+    "ID": "OptionGroup41",
+    "Description": "Hack1",
+    "Options": [
+      "教室前",
+      "I handed it to her",
+      "I forgot"
+    ]
+  },
+  {
+    "ID": "OptionGroup42",
+    "Description": "FC05a",
+    "Options": [
+      "教室前",
+      "I'm good at cooking",
+      "Don't expect much"
+    ]
+  },
+  {
+    "ID": "OptionGroup43",
+    "Description": "FC06f",
+    "Options": [
+      "Cheer Miki up",
+      "Help him with his love"
+    ]
+  },
+  {
+    "ID": "OptionGroup44",
+    "Description": "FC16c",
+    "Options": [
+      "None of your business",
+      "Chide Miki"
+    ]
+  },
+  {
+    "ID": "OptionGroup45",
+    "Description": null,
+    "Options": [
+      "Utena",
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki"
+    ]
+  },
+  {
+    "ID": "OptionGroup46",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Utena"
+    ]
+  },
+  {
+    "ID": "OptionGroup47",
+    "Description": null,
+    "Options": [
+      "Utena",
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki"
+    ]
+  },
+  {
+    "ID": "OptionGroup48",
+    "Description": "GAYA32",
+    "Options": [
+      "Chat with Utena",
+      "Fencing Club",
+      "Kendo Club"
+    ]
+  },
+  {
+    "ID": "OptionGroup49",
+    "Description": "GAYA24",
+    "Options": [
+      "Go to the music room",
+      "Join the practice",
+      "Go somewhere else"
+    ]
+  },
+  {
+    "ID": "OptionGroup50",
+    "Description": "Hack2",
+    "Options": [
+      "Join the practice",
+      "Go somewhere else"
+    ]
+  },
+  {
+    "ID": "OptionGroup51",
+    "Description": "SE009",
+    "Options": [
+      "Go to the music room",
+      "Go somewhere else"
+    ]
+  },
+  {
+    "ID": "OptionGroup52",
+    "Description": "Hack5",
+    "Options": [
+      "Spar against Juri",
+      "Make Juri take a break"
+    ]
+  },
+  {
+    "ID": "OptionGroup53",
+    "Description": "FC14a",
+    "Options": [
+      "Take a shower",
+      "Go somewhere else"
+    ]
+  },
+  {
+    "ID": "OptionGroup54",
+    "Description": "FC06f",
+    "Options": [
+      "Cheer Miki up",
+      "Help him with his love"
+    ]
+  },
+  {
+    "ID": "OptionGroup55",
+    "Description": "EVC36",
+    "Options": [
+      "Worried about Kozue?",
+      "Chigusa-san is dangerous"
+    ]
+  },
+  {
+    "ID": "OptionGroup56",
+    "Description": "EVC38",
+    "Options": [
+      "Listen to the piano",
+      "Go somewhere else"
+    ]
+  },
+  {
+    "ID": "OptionGroup57",
+    "Description": "Hack6",
+    "Options": [
+      "Will you obtain it?",
+      "Stop with the dumb duels"
+    ]
+  },
+  {
+    "ID": "OptionGroup58",
+    "Description": "Hack7",
+    "Options": [
+      "剣道部　道場",
+      "Look for Touga",
+      "Go somewhere else"
+    ]
+  },
+  {
+    "ID": "OptionGroup59",
+    "Description": "EVC08",
+    "Options": [
+      "I asked Anthy",
+      "I looked over for you"
+    ]
+  },
+  {
+    "ID": "OptionGroup60",
+    "Description": "EVC44",
+    "Options": [
+      "Go after Saionji",
+      "Go somewhere else"
+    ]
+  },
+  {
+    "ID": "OptionGroup61",
+    "Description": "FC07a",
+    "Options": [
+      "Talk about Kendo Club",
+      "Talk about Chigusa"
+    ]
+  },
+  {
+    "ID": "OptionGroup62",
+    "Description": "Hack8",
+    "Options": [
+      "Leave it to Touga",
+      "Go with Touga"
+    ]
+  },
+  {
+    "ID": "OptionGroup63",
+    "Description": "FC08a",
+    "Options": [
+      "Say it's not a date",
+      "Say it's a date"
+    ]
+  },
+  {
+    "ID": "OptionGroup64",
+    "Description": "SE078",
+    "Options": [
+      "２４日",
+      "ダウン０４"
+    ]
+  },
+  {
+    "ID": "OptionGroup65",
+    "Description": null,
+    "Options": [
+      "Fencing Club",
+      "Music Room",
+      "Kendo Club",
+      "Chat with Utena"
+    ]
+  },
+  {
+    "ID": "OptionGroup66",
+    "Description": null,
+    "Options": [
+      "剣道部　道場",
+      "Look for Saionji",
+      "Look for Touga",
+      "Go somewhere else"
+    ]
+  },
+  {
+    "ID": "OptionGroup67",
+    "Description": "SE033",
+    "Options": [
+      "I came to drink tea",
+      "Tell about the incident"
+    ]
+  },
+  {
+    "ID": "OptionGroup68",
+    "Description": "EVB10",
+    "Options": [
+      "紫丁香",
+      "Quiz Touga",
+      "Believe Touga"
+    ]
+  },
+  {
+    "ID": "OptionGroup69",
+    "Description": "EVB12b",
+    "Options": [
+      "ケーキ屋",
+      "I came to eat cake",
+      "Tell about the incident"
+    ]
+  },
+  {
+    "ID": "OptionGroup70",
+    "Description": "EVB13",
+    "Options": [
+      "忍逢",
+      "Detain him",
+      "Don't detain him"
+    ]
+  },
+  {
+    "ID": "OptionGroup71",
+    "Description": null,
+    "Options": [
+      "街",
+      "Cafe",
+      "Classical Cafe",
+      "Game Center",
+      "Cake Store",
+      "Japanese Teahouse"
+    ]
+  },
+  {
+    "ID": "OptionGroup72",
+    "Description": "FC01a",
+    "Options": [
+      "Interject",
+      "Talk about Chigusa",
+      "Ask Anthy to stop them"
+    ]
+  },
+  {
+    "ID": "OptionGroup73",
+    "Description": "EVA38",
+    "Options": [
+      "２４日",
+      "ダウン０５"
+    ]
+  },
+  {
+    "ID": "OptionGroup74",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Chigusa"
+    ]
+  },
+  {
+    "ID": "OptionGroup75",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Yes, please",
+      "Not that kind of girl",
+      "Decline politely"
+    ]
+  },
+  {
+    "ID": "OptionGroup76",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "I'm too scared to sleep",
+      "Next time I'll take 'em",
+      "They were after my body"
+    ]
+  },
+  {
+    "ID": "OptionGroup77",
+    "Description": null,
+    "Options": [
+      "東館食堂",
+      "Don't worry about it",
+      "Tease Miki",
+      "Argue"
+    ]
+  },
+  {
+    "ID": "OptionGroup78",
+    "Description": null,
+    "Options": [
+      "自分の部屋",
+      "Utena",
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Don't consult"
+    ]
+  },
+  {
+    "ID": "OptionGroup79",
+    "Description": "BG66",
+    "Options": [
+      "校門",
+      "Nobody has disappeared"
+    ]
+  },
+  {
+    "ID": "OptionGroup80",
+    "Description": "SE086",
+    "Options": [
+      "２５日",
+      "ダウン０６"
+    ]
+  },
+  {
+    "ID": "OptionGroup81",
+    "Description": "FC07a",
+    "Options": [
+      "I'm scared",
+      "I want to know",
+      "I'll fight instead"
+    ]
+  },
+  {
+    "ID": "OptionGroup82",
+    "Description": "FC01b",
+    "Options": [
+      "Chigusa is the Duelist",
+      "I want to help Utena",
+      "I'll fight instead"
+    ]
+  },
+  {
+    "ID": "OptionGroup83",
+    "Description": "FC05a",
+    "Options": [
+      "I'm worried",
+      "I want to help Utena",
+      "I'll fight instead"
+    ]
+  },
+  {
+    "ID": "OptionGroup84",
+    "Description": "FC06a",
+    "Options": [
+      "I'm worried about Kozue",
+      "I want to help Utena",
+      "I'll fight instead"
+    ]
+  },
+  {
+    "ID": "OptionGroup85",
+    "Description": "EVD99",
+    "Options": [
+      "中庭　温室",
+      "I want answers",
+      "I want the Rose Bride"
+    ]
+  },
+  {
+    "ID": "OptionGroup86",
+    "Description": null,
+    "Options": [
+      "パーフェクト編",
+      "ウテナラブラブ",
+      "冬芽ラブラブ",
+      "西園寺ラブラブ",
+      "樹璃ラブラブ",
+      "幹ラブラブ"
+    ]
+  },
+  {
+    "ID": "OptionGroup87",
+    "Description": null,
+    "Options": [
+      "Touga",
+      "Saionji",
+      "Juri",
+      "Miki",
+      "Anthy",
+      "There's nobody"
+    ]
+  },
+  {
+    "ID": "OptionGroup88",
+    "Description": null,
+    "Options": [
+      "Call your parents",
+      "Student Council archives",
+      "Ask Tsuji-sensei",
+      "Newspaper Club",
+      "Search for Chigusa"
+    ]
+  },
+  {
+    "ID": "OptionGroup89",
+    "Description": null,
+    "Options": [
+      "通常",
+      "ウテナラブ",
+      "冬芽ラブ",
+      "西園寺ラブ",
+      "樹璃ラブ",
+      "幹ラブ",
+      "パーフェクトラブ"
+    ]
+  },
+  {
+    "ID": "OptionGroup90",
+    "Description": "SAKASA",
+    "Options": [
+      "結果勝ち",
+      "結果負け"
+    ]
+  },
+  {
+    "ID": "OptionGroup91",
+    "Description": null,
+    "Options": [
+      "勝ち",
+      "敵取得",
+      "敵がもういない",
+      "敵まだいる",
+      "負け"
+    ]
+  },
+  {
+    "ID": "OptionGroup92",
+    "Description": "BG07",
+    "Options": [
+      "Name tags on the wall",
+      "The locker",
+      "The calendar"
+    ]
+  },
+  {
+    "ID": "OptionGroup93",
+    "Description": "Hack1",
+    "Options": [
+      "Name tags on the wall",
+      "The calendar",
+      "The locker"
+    ]
+  },
+  {
+    "ID": "OptionGroup94",
+    "Description": "EVD91",
+    "Options": [
+      "My parents told me to",
+      "To escape my parents",
+      "To search for my prince"
+    ]
+  },
+  {
+    "ID": "OptionGroup95",
+    "Description": "EVD92",
+    "Options": [
+      "That's not true",
+      "More like a mountain",
+      "Were you listening to me?"
+    ]
+  }
+]
