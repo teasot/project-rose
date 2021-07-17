@@ -45,6 +45,18 @@ function PanScene_Draw(){
 			c_white,
 			1
 		);
+		// Bottom left
+		draw_sprite_ext(
+			F_ROSE01, 
+			RoseFrame, 
+			80*global.UniversalScale, 
+			global.UniversalScreenHeight + 26, 
+			-1*global.UniversalScale, 
+			-1*global.UniversalScale, 
+			0, 
+			c_white, 
+			1
+		);
 	}
 	if(ShowDialogueBox == true){
 		Helpers_DrawDialogueBox();
