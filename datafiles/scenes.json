@@ -204,31 +204,121 @@
     },
     "04_Arrive_Rose_Garden": {
         "Type": "Dialogue",
-        "Description": "Protagonist is transferring to Ohtoori academy",
-        "BG_Music": "A04",
+        "Description": "Protagonist sees rose garden",
+        "BG_Music": "A05",
         "BG_Music_Loops": true,
-        "BG_Image": "EVA01",
-        "Next_Scene_Id": "",
+        "BG_Image": "BG01",
+        "Next_Scene_Id": "05_See_Saionji",
         "Dialogue": [
             {
                 "Actor": "Player",
                 "Lines": [
                     {
-                        "Text": "Transfer schools?",
-                        "VoiceLine": "VA01X001"
+                        "Text": "What a huge difference from my old\r\npublic school!",
+                        "VoiceLine": "VA02X002"
+                    },
+                    {
+                        "Text": "Even the way it's laid out feels\r\nkind of extravagent. I mean,\r\nthere's a forest inside the school\r\ngrounds!",
+                        "VoiceLine": "VA02X004"
+                    },
+                    {
+                        "Text": "Just like you'd expect from such a\r\nfamous school... the campus is so\r\nhuge!",
+                        "VoiceLine": "VA02X005"
+                    },
+                    {
+                        "Text": "Let's see, where's the middle\r\nschool building...?",
+                        "VoiceLine": "VA02X006"
+                    },
+                    {
+                        "Text": "Elementary school, high school...\r\nthere are so many buildings, it's\r\ngoing to take a while to get my\r\nbearings.",
+                        "VoiceLine": "VA02X007"
+                    },
+                    {
+                        "Text": "What's that traditional-looking\r\nbuilding... a martial arts gym?",
+                        "VoiceLine": "VA02X008"
+                    },
+                    {
+                        "Text": "And I guess that thing that looks\r\nlike a birdcage is a conservatory?",
+                        "VoiceLine": "VA02X009"
+                    },
+                    {
+                        "Text": "What a huge difference from my old\r\npublic school!\r\n\r\nEven the way it's laid out feels\r\nextravagent. I mean, there's a\r\nforest inside the school grounds!\r\n\r\nJust like you'd expect from such a\r\nfamous school... the campus is so\r\nhuge!\r\nLet's see, where's the middle\r\nschool building...?\r\n\r\nElementary school, high school...\r\nthere are so many buildings. It'll\r\ntake a while to get my bearings.\r\nWhat's that traditional-looking\r\nbuilding... a martial arts gym?\r\n\r\nAnd I guess that thing that looks\r\nlike a birdcage is a conservatory?\r\n\r\nMan, the best my old school had\r\nwas a rabbit hutch.",
+                        "VoiceLine": "VA02X010"
+                    },
+                    {
+                        "Text": "It figures.",
+                        "VoiceLine": "VA02X011"
+                    },
+                    {
+                        "Text": "Huh?\r\nWhat's that?",
+                        "VoiceLine": "VA02X012"
+                    }
+                ]
+            }
+        ]
+    },
+    "05_See_Saionji": {
+        "Type": "Dialogue",
+        "Description": "Protagonist sees Saionji with Anthy",
+        "BG_Music": "A13",
+        "BG_Music_Loops": true,
+        "BG_Image": "EVA04",
+        "Next_Scene_Id": "06_Saionji_Slap_Movie",
+        "Dialogue": [
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "I thought I heard a voice from\r\nsomewhere around here, but...",
+                        "VoiceLine": "VA03X001"
+                    },
+                    {
+                        "Text": "Oh, someone's there!",
+                        "VoiceLine": "VA03X002"
                     }
                 ]
             },
             {
-                "Actor": "Father",
+                "Actor": "Saionji",
                 "Lines": [
                     {
-                        "Text": "That's right.\r\nYou've heard of it before,\r\nhaven't you?",
-                        "VoiceLine": "VA01X002"
+                        "Text": "Why, Anthy?",
+                        "VoiceLine": "VA03X003"
                     },
                     {
-                        "Text": "It's a place in Houou City\r\ncalled Ohtori Academy.",
-                        "VoiceLine": "VA01X003"
+                        "Text": "Are you saying that our love was\r\na lie?",
+                        "VoiceLine": "VA03X004"
+                    },
+                    {
+                        "Text": "On that night, didn't you swear\r\nto devote yourself to me?",
+                        "VoiceLine": "VA03X005"
+                    }
+                ]
+            },
+            {
+                "Actor": "Anthy",
+                "Lines": [
+                    {
+                        "Text": "I'm currently engaged to\r\nUtena-sama.",
+                        "VoiceLine": "VA03X006"
+                    }
+                ]
+            },
+            {
+                "Actor": "Saionji",
+                "Lines": [
+                    {
+                        "Text": "So you're saying you can't accept\r\nmy love?",
+                        "VoiceLine": "VA03X007"
+                    }
+                ]
+            },
+            {
+                "Actor": "Anthy",
+                "Lines": [
+                    {
+                        "Text": "Yes...",
+                        "VoiceLine": "VA03X008"
                     }
                 ]
             },
@@ -236,137 +326,72 @@
                 "Actor": "Player",
                 "Lines": [
                     {
-                        "Text": "Ohtori Academy...?\r\nIsn't that a really prestigious\r\nschool!?",
-                        "VoiceLine": "VA01X004"
-                    }
-                ]
-            },
-            {
-                "Actor": "Mother",
-                "Lines": [
-                    {
-                        "Text": "You know, a long time ago,\r\nyour father used to teach at\r\nOhtori Academy.",
-                        "VoiceLine": "VA01X005"
-                    }
-                ]
-            },
-            {
-                "Actor": "Father",
-                "Lines": [
-                    {
-                        "Text": "Thanks to that connection,\r\nthe Chairman of the Board asked\r\nif we'd like to send you there.",
-                        "VoiceLine": "VA01X006"
+                        "Text": "(Wow, I just transferred here,\r\nand I've already run across\r\nsuch an amazing scene!)",
+                        "VoiceLine": "VA03X009"
                     },
                     {
-                        "Text": "So what do you think?\r\nIsn't it a nice offer?",
-                        "VoiceLine": "VA01X007"
+                        "Text": "(Huh, I wonder if he's from the\r\nhigh school section? He looks\r\ngrown-up, and he's super-hot.\r\nIs he her boyfriend?)",
+                        "VoiceLine": "VA03X010"
                     }
                 ]
             },
+            {
+                "Actor": "Anthy",
+                "Lines": [
+                    {
+                        "Text": "I am the Rose Bride...\r\nI do as the victor of the duels\r\nwishes.",
+                        "VoiceLine": "VA03X011"
+                    }
+                ]
+            },
+            {
+                "Actor": "Saionji",
+                "Lines": [
+                    {
+                        "Text": "As... they wish...",
+                        "VoiceLine": "VA03X012"
+                    }
+                ]
+            },
+            {
+                "Actor": "Anthy",
+                "Lines": [
+                    {
+                        "Text": "Yes. As they wish.",
+                        "VoiceLine": "VA03X013"
+                    }
+                ]
+            }
+        ]
+    },
+    "06_Saionji_Slap_Movie": {
+        "Type": "Movie",
+        "Description": "Saionji slaps Anthy",
+        "Movie": "MOVIE\\MVA03",
+        "Next_Scene_Id": "04_Arrive_Rose_Garden"
+    },
+    "07_First_Options": {
+        "Type": "Dialogue_Options",
+        "Description": "Protagonist sees Saionji with Anthy",
+        "BG_Music": "A13",
+        "BG_Music_Loops": true,
+        "BG_Image": "EVA04",
+        "Next_Scene_Id": "06_Saionji_Slap_Movie",
+        "Dialogue": [
             {
                 "Actor": "Player",
                 "Lines": [
                     {
-                        "Text": "Yeah...",
-                        "VoiceLine": "VA01X008"
-                    }
-                ]
-            },
-            {
-                "Actor": "Father",
-                "Lines": [
-                    {
-                        "Text": "Ohtori Academy is an excellent\r\nplace.",
-                        "VoiceLine": "VA01X009"
-                    }
-                ]
-            },
-            {
-                "Actor": "Mother",
-                "Lines": [
-                    {
-                        "Text": "In fact, it's where your father\r\nand I met.",
-                        "VoiceLine": "VA01X010"
-                    }
-                ]
-            },
-            {
-                "Actor": "Player",
-                "Lines": [
-                    {
-                        "Text": "Really?",
-                        "VoiceLine": "VA01X011"
-                    }
-                ]
-            },
-            {
-                "Actor": "Father",
-                "Lines": [
-                    {
-                        "Text": "That's right... if you go, you\r\nshould check out the fencing hall.",
-                        "VoiceLine": "VA01X012"
+                        "Text": "(Rose Bride? Duels?)",
+                        "VoiceLine": "VA03X014"
                     },
                     {
-                        "Text": "It's the pretty, chalk-white\r\nbuilding behind the library.\r\nYou'll recognize it right away.",
-                        "VoiceLine": "VA01X014"
-                    }
-                ]
-            },
-            {
-                "Actor": "Player",
-                "Lines": [
-                    {
-                        "Text": "Dad, you used to be a really\r\nstrong fencer, right?",
-                        "VoiceLine": "VA01X015"
-                    }
-                ]
-            },
-            {
-                "Actor": "Father",
-                "Lines": [
-                    {
-                        "Text": "Yeah.",
-                        "VoiceLine": "VA01X016"
+                        "Text": "(I dunno what's going on, but it\r\nlooks like I've stumbled upon a\r\nmajor incident...)",
+                        "VoiceLine": "VA03X015"
                     },
                     {
-                        "Text": "So, when I was at Ohtori, I served\r\nas the Fencing Club's advisor.",
-                        "VoiceLine": "VA01X017"
-                    }
-                ]
-            },
-            {
-                "Actor": "Mother",
-                "Lines": [
-                    {
-                        "Text": "Your father was so dreamy back\r\nthen!",
-                        "VoiceLine": "VA01X018"
-                    }
-                ]
-            },
-            {
-                "Actor": "Father",
-                "Lines": [
-                    {
-                        "Text": "You looked pretty cool too,\r\nin your fencing suit.",
-                        "VoiceLine": "VA01X019"
-                    }
-                ]
-            },
-            {
-                "Actor": "Mother",
-                "Lines": [
-                    {
-                        "Text": "[giggle] I may have looked cool,\r\nbut I wasn't very good...",
-                        "VoiceLine": "VA01X020"
-                    }
-                ]
-            },
-            {
-                "Actor": "Father",
-                "Lines": [
-                    {
-                        "Text": "That's fine.\r\nGirls don't need to be strong...",
-                        "VoiceLine": "VA01X021"
+                        "Text": "(I can't just leave her alone...\r\nWhat should I do?)",
+                        "VoiceLine": "VA03X016"
                     }
                 ]
             }
