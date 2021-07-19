@@ -1,4 +1,144 @@
 {
+  "OptionGroup1": {
+    "ID": "OptionGroup1",
+    "Description": "EVA05",
+    "Options": [
+      "ひどい、助けなくちゃ！",
+      "もう少し様子を見よう"
+    ]
+  },
+  "OptionGroup2": {
+    "ID": "OptionGroup2",
+    "Description": "EventA07",
+    "Options": [
+      "彼女はいるの？",
+      "彼氏はいるの？"
+    ]
+  },
+  "OptionGroup3": {
+    "ID": "OptionGroup3",
+    "Description": "EVA11",
+    "Options": [
+      "わたしもエンゲージしたい",
+      "話題を変える",
+      "ボケをかましてみる"
+    ]
+  },
+  "OptionGroup4": {
+    "ID": "OptionGroup4",
+    "Description": "EventA16",
+    "Options": [
+      "壁の絵を見る",
+      "カレンダーを見る",
+      "ロッカーを見る"
+    ]
+  },
+  "OptionGroup5": {
+    "ID": "OptionGroup5",
+    "Description": "FC06a",
+    "Options": [
+      "きれいな目をほめる",
+      "かるいギャグをかます"
+    ]
+  },
+  "OptionGroup6": {
+    "ID": "OptionGroup6",
+    "Description": "FC07a",
+    "Options": [
+      "礼を言う",
+      "お世辞はやめて"
+    ]
+  },
+  "OptionGroup7": {
+    "ID": "OptionGroup7",
+    "Description": "EVA28",
+    "Options": [
+      "正面から止める",
+      "注意を他に向けさせる"
+    ]
+  },
+  "OptionGroup8": {
+    "ID": "OptionGroup8",
+    "Description": "FC01b",
+    "Options": [
+      "わたしが真犯人を捕まえるわ",
+      "ギャグでごまかす"
+    ]
+  },
+  "OptionGroup9": {
+    "ID": "OptionGroup9",
+    "Description": "EventA30",
+    "Options": [
+      "ウテナと一緒に寝る",
+      "１人で寝る"
+    ]
+  },
+  "OptionGroup10": {
+    "ID": "OptionGroup10",
+    "Description": "EventB01-1",
+    "Options": [
+      "ウテナに話しかける",
+      "やめておく"
+    ]
+  },
+  "OptionGroup11": {
+    "ID": "OptionGroup11",
+    "Description": "FC08c",
+    "Options": [
+      "お父さん",
+      "お母さん"
+    ]
+  },
+  "OptionGroup12": {
+    "ID": "OptionGroup12",
+    "Description": "GAYA2",
+    "Options": [
+      "ウテナたちと外で食べる",
+      "カフェテリアで食べる"
+    ]
+  },
+  "OptionGroup13": {
+    "ID": "OptionGroup13",
+    "Description": "FC03b",
+    "Options": [
+      "アンシーの弁当をもらう",
+      "空腹でガマンする"
+    ]
+  },
+  "OptionGroup14": {
+    "ID": "OptionGroup14",
+    "Description": "C14",
+    "Options": [
+      "「38」と答える",
+      "「α＋18」と答える"
+    ]
+  },
+  "OptionGroup15": {
+    "ID": "OptionGroup15",
+    "Description": "FC14a",
+    "Options": [
+      "樹璃と戦うことにする",
+      "幹と戦うことにする",
+      "やめておく"
+    ]
+  },
+  "OptionGroup16": {
+    "ID": "OptionGroup16",
+    "Description": "EVB32",
+    "Options": [
+      "千種に話しかける",
+      "西園寺に話しかける"
+    ]
+  },
+  "OptionGroup17": {
+    "ID": "OptionGroup17",
+    "Description": "SE015",
+    "Options": [
+      "シャワー室",
+      "決闘する理由を聞く",
+      "ロケットについて聞く"
+    ]
+  },
   "OptionGroup18": {
     "ID": "OptionGroup18",
     "Description": null,
@@ -22,6 +162,66 @@
       "文芸部"
     ]
   },
+  "OptionGroup20": {
+    "ID": "OptionGroup20",
+    "Description": "FC08c",
+    "Options": [
+      "病気について聞く",
+      "彼女がいるか聞く",
+      "彼氏がいるか聞く"
+    ]
+  },
+  "OptionGroup21": {
+    "ID": "OptionGroup21",
+    "Description": "Hack1",
+    "Options": [
+      "もう少し一緒にいる",
+      "ここで別れる"
+    ]
+  },
+  "OptionGroup22": {
+    "ID": "OptionGroup22",
+    "Description": "FC08f",
+    "Options": [
+      "いません",
+      "気になってる人なら"
+    ]
+  },
+  "OptionGroup23": {
+    "ID": "OptionGroup23",
+    "Description": "EVB10",
+    "Options": [
+      "紫丁香",
+      "クラシックを聞きに",
+      "運命に導かれたのかも"
+    ]
+  },
+  "OptionGroup24": {
+    "ID": "OptionGroup24",
+    "Description": "EVB12",
+    "Options": [
+      "ケーキ屋",
+      "１人で座る",
+      "幹たちと座る"
+    ]
+  },
+  "OptionGroup25": {
+    "ID": "OptionGroup25",
+    "Description": "EVB13",
+    "Options": [
+      "忍逢",
+      "日本茶をほめる",
+      "ルイボスティーをほめる"
+    ]
+  },
+  "OptionGroup26": {
+    "ID": "OptionGroup26",
+    "Description": "Hack2",
+    "Options": [
+      "いないと答える",
+      "いると答える"
+    ]
+  },
   "OptionGroup27": {
     "ID": "OptionGroup27",
     "Description": null,
@@ -32,6 +232,40 @@
       "ゲームセンター",
       "ケーキ屋",
       "和風茶屋"
+    ]
+  },
+  "OptionGroup28": {
+    "ID": "OptionGroup28",
+    "Description": "FC05a",
+    "Options": [
+      "ウテナが強い",
+      "樹璃が弱い",
+      "勝負は時の運"
+    ]
+  },
+  "OptionGroup29": {
+    "ID": "OptionGroup29",
+    "Description": "SE015",
+    "Options": [
+      "シャワー室",
+      "のぞく",
+      "のぞかない"
+    ]
+  },
+  "OptionGroup30": {
+    "ID": "OptionGroup30",
+    "Description": "FC08g",
+    "Options": [
+      "千種の頬を張る",
+      "ギャグで場をなごませる"
+    ]
+  },
+  "OptionGroup31": {
+    "ID": "OptionGroup31",
+    "Description": "EVA38",
+    "Options": [
+      "２３日",
+      "ダウン０２"
     ]
   },
   "OptionGroup32": {
@@ -88,6 +322,73 @@
       "千種"
     ]
   },
+  "OptionGroup37": {
+    "ID": "OptionGroup37",
+    "Description": "EVC27",
+    "Options": [
+      "スライディング",
+      "あっさり、どく"
+    ]
+  },
+  "OptionGroup38": {
+    "ID": "OptionGroup38",
+    "Description": "FC18a",
+    "Options": [
+      "ケーキを作ってもらう",
+      "歌をうたってもらう"
+    ]
+  },
+  "OptionGroup39": {
+    "ID": "OptionGroup39",
+    "Description": "FC17d",
+    "Options": [
+      "憎まれ口をたたく",
+      "素直に引き下がる"
+    ]
+  },
+  "OptionGroup40": {
+    "ID": "OptionGroup40",
+    "Description": "FC01b",
+    "Options": [
+      "教室前",
+      "正直に言う",
+      "アンシーと作ったと言う"
+    ]
+  },
+  "OptionGroup41": {
+    "ID": "OptionGroup41",
+    "Description": "Hack1",
+    "Options": [
+      "教室前",
+      "渡しておきました",
+      "忘れてました"
+    ]
+  },
+  "OptionGroup42": {
+    "ID": "OptionGroup42",
+    "Description": "FC05a",
+    "Options": [
+      "教室前",
+      "料理には自信がある",
+      "あまり期待しないで"
+    ]
+  },
+  "OptionGroup43": {
+    "ID": "OptionGroup43",
+    "Description": "FC06f",
+    "Options": [
+      "幹をはげます",
+      "恋の手助けをしてあげる"
+    ]
+  },
+  "OptionGroup44": {
+    "ID": "OptionGroup44",
+    "Description": "FC16c",
+    "Options": [
+      "関係ない人はどいて",
+      "幹をたしなめる"
+    ]
+  },
   "OptionGroup45": {
     "ID": "OptionGroup45",
     "Description": null,
@@ -121,6 +422,145 @@
       "幹"
     ]
   },
+  "OptionGroup48": {
+    "ID": "OptionGroup48",
+    "Description": "GAYA32",
+    "Options": [
+      "ウテナたちとおしゃべり",
+      "フェンシング部",
+      "剣道部"
+    ]
+  },
+  "OptionGroup49": {
+    "ID": "OptionGroup49",
+    "Description": "GAYA24",
+    "Options": [
+      "音楽室に行く",
+      "練習に参加する",
+      "他のところにいく"
+    ]
+  },
+  "OptionGroup50": {
+    "ID": "OptionGroup50",
+    "Description": "Hack2",
+    "Options": [
+      "練習に参加する",
+      "他のところにいく"
+    ]
+  },
+  "OptionGroup51": {
+    "ID": "OptionGroup51",
+    "Description": "SE009",
+    "Options": [
+      "音楽室に行く",
+      "他のところにいく"
+    ]
+  },
+  "OptionGroup52": {
+    "ID": "OptionGroup52",
+    "Description": "Hack5",
+    "Options": [
+      "樹璃の練習相手をする",
+      "樹璃を休ませる"
+    ]
+  },
+  "OptionGroup53": {
+    "ID": "OptionGroup53",
+    "Description": "FC14a",
+    "Options": [
+      "シャワーをあびる",
+      "他のところにいく"
+    ]
+  },
+  "OptionGroup54": {
+    "ID": "OptionGroup54",
+    "Description": "FC06f",
+    "Options": [
+      "幹をはげます",
+      "恋の手助けをしてあげる"
+    ]
+  },
+  "OptionGroup55": {
+    "ID": "OptionGroup55",
+    "Description": "EVC36",
+    "Options": [
+      "妹が心配じゃないの？",
+      "千種さんは危険だわ"
+    ]
+  },
+  "OptionGroup56": {
+    "ID": "OptionGroup56",
+    "Description": "EVC38",
+    "Options": [
+      "ピアノを聞く",
+      "他のところにいく"
+    ]
+  },
+  "OptionGroup57": {
+    "ID": "OptionGroup57",
+    "Description": "Hack6",
+    "Options": [
+      "手に入りそう？",
+      "決闘なんか、やめなよ"
+    ]
+  },
+  "OptionGroup58": {
+    "ID": "OptionGroup58",
+    "Description": "Hack7",
+    "Options": [
+      "剣道部　道場",
+      "冬芽を探す",
+      "他のところにいく"
+    ]
+  },
+  "OptionGroup59": {
+    "ID": "OptionGroup59",
+    "Description": "EVC08",
+    "Options": [
+      "アンシーに聞いた",
+      "いろいろ探した"
+    ]
+  },
+  "OptionGroup60": {
+    "ID": "OptionGroup60",
+    "Description": "EVC44",
+    "Options": [
+      "西園寺を追いかける",
+      "他のところにいく"
+    ]
+  },
+  "OptionGroup61": {
+    "ID": "OptionGroup61",
+    "Description": "FC07a",
+    "Options": [
+      "剣道部の話をする",
+      "千種の話をする"
+    ]
+  },
+  "OptionGroup62": {
+    "ID": "OptionGroup62",
+    "Description": "Hack8",
+    "Options": [
+      "冬芽にまかせる",
+      "冬芽と一緒に行く"
+    ]
+  },
+  "OptionGroup63": {
+    "ID": "OptionGroup63",
+    "Description": "FC08a",
+    "Options": [
+      "デートじゃないと言う",
+      "デートだと言う"
+    ]
+  },
+  "OptionGroup64": {
+    "ID": "OptionGroup64",
+    "Description": "SE078",
+    "Options": [
+      "２４日",
+      "ダウン０４"
+    ]
+  },
   "OptionGroup65": {
     "ID": "OptionGroup65",
     "Description": null,
@@ -141,6 +581,41 @@
       "他のところにいく"
     ]
   },
+  "OptionGroup67": {
+    "ID": "OptionGroup67",
+    "Description": "SE033",
+    "Options": [
+      "お茶を飲みに来た",
+      "交番の一件を話す"
+    ]
+  },
+  "OptionGroup68": {
+    "ID": "OptionGroup68",
+    "Description": "EVB10",
+    "Options": [
+      "紫丁香",
+      "冬芽を試す",
+      "冬芽を信じる"
+    ]
+  },
+  "OptionGroup69": {
+    "ID": "OptionGroup69",
+    "Description": "EVB12b",
+    "Options": [
+      "ケーキ屋",
+      "ケーキを食べにきた",
+      "交番の件を話す"
+    ]
+  },
+  "OptionGroup70": {
+    "ID": "OptionGroup70",
+    "Description": "EVB13",
+    "Options": [
+      "忍逢",
+      "引き止める",
+      "引き止めない"
+    ]
+  },
   "OptionGroup71": {
     "ID": "OptionGroup71",
     "Description": null,
@@ -151,6 +626,23 @@
       "ゲームセンター",
       "ケーキ屋",
       "和風茶屋"
+    ]
+  },
+  "OptionGroup72": {
+    "ID": "OptionGroup72",
+    "Description": "FC01a",
+    "Options": [
+      "２人の間に入る",
+      "千種のことを言う",
+      "アンシーに止めてもらう"
+    ]
+  },
+  "OptionGroup73": {
+    "ID": "OptionGroup73",
+    "Description": "EVA38",
+    "Options": [
+      "２４日",
+      "ダウン０５"
     ]
   },
   "OptionGroup74": {
@@ -207,6 +699,67 @@
       "相談しない"
     ]
   },
+  "OptionGroup79": {
+    "ID": "OptionGroup79",
+    "Description": "BG66",
+    "Options": [
+      "校門",
+      "だれも失踪してない"
+    ]
+  },
+  "OptionGroup80": {
+    "ID": "OptionGroup80",
+    "Description": "SE086",
+    "Options": [
+      "２５日",
+      "ダウン０６"
+    ]
+  },
+  "OptionGroup81": {
+    "ID": "OptionGroup81",
+    "Description": "FC07a",
+    "Options": [
+      "わたし、こわいんです",
+      "わたし、知りたいんです",
+      "代わりにわたしが戦う"
+    ]
+  },
+  "OptionGroup82": {
+    "ID": "OptionGroup82",
+    "Description": "FC01b",
+    "Options": [
+      "千種がデュエリストだ",
+      "ウテナの力になりたい",
+      "代わりにわたしが戦う"
+    ]
+  },
+  "OptionGroup83": {
+    "ID": "OptionGroup83",
+    "Description": "FC05a",
+    "Options": [
+      "不安なんです",
+      "ウテナの力になりたい",
+      "代わりにわたしが戦う"
+    ]
+  },
+  "OptionGroup84": {
+    "ID": "OptionGroup84",
+    "Description": "FC06a",
+    "Options": [
+      "梢の心配をする",
+      "ウテナを助けたい",
+      "代わりにわたしが戦う"
+    ]
+  },
+  "OptionGroup85": {
+    "ID": "OptionGroup85",
+    "Description": "EVD99",
+    "Options": [
+      "中庭　温室",
+      "答えがほしい",
+      "薔薇の花嫁がほしい"
+    ]
+  },
   "OptionGroup86": {
     "ID": "OptionGroup86",
     "Description": null,
@@ -255,6 +808,14 @@
       "パーフェクトラブ"
     ]
   },
+  "OptionGroup90": {
+    "ID": "OptionGroup90",
+    "Description": "SAKASA",
+    "Options": [
+      "結果勝ち",
+      "結果負け"
+    ]
+  },
   "OptionGroup91": {
     "ID": "OptionGroup91",
     "Description": null,
@@ -264,6 +825,42 @@
       "敵がもういない",
       "敵まだいる",
       "負け"
+    ]
+  },
+  "OptionGroup92": {
+    "ID": "OptionGroup92",
+    "Description": "BG07",
+    "Options": [
+      "壁の名札",
+      "ロッカー",
+      "カレンダー"
+    ]
+  },
+  "OptionGroup93": {
+    "ID": "OptionGroup93",
+    "Description": "Hack1",
+    "Options": [
+      "壁の名札",
+      "カレンダー",
+      "ロッカー"
+    ]
+  },
+  "OptionGroup94": {
+    "ID": "OptionGroup94",
+    "Description": "EVD91",
+    "Options": [
+      "両親に言われたから",
+      "両親から逃げたかったから",
+      "王子さまを探して"
+    ]
+  },
+  "OptionGroup95": {
+    "ID": "OptionGroup95",
+    "Description": "EVD92",
+    "Options": [
+      "そんなものない",
+      "海というより山です",
+      "人の話、聞いてます？"
     ]
   }
 }
