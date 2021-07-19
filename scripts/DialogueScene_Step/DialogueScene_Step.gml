@@ -48,8 +48,15 @@ function DialogueScene_Step(){
 				if(DialogueScene_NoMoreDialogueItems())
 				{
 						// Move to the next scene
-						global.LoadNextScene = true;
-						instance_destroy();
+						if(global.Scene_Has_Options){
+							// Render options
+							RenderingOptions = true;
+						}
+						else{
+							global.LoadNextScene = true;
+							instance_destroy();
+						}
+						
 				}else{
 					DialogueScene_BeginNextItem();	
 				}

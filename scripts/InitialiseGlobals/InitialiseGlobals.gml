@@ -27,7 +27,7 @@ function InitialiseGlobals(){
 	// Now initialise game state
 	global.Scene_NextSceneId = "Opening";
 	if(global.Debug){
-		global.Scene_NextSceneId = "02_Arrive_School_Pan";
+		global.Scene_NextSceneId = "05_See_Saionji";
 	}
 	// Load JSON
 	LoadJson();

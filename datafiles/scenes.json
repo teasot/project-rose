@@ -368,15 +368,15 @@
         "Type": "Movie",
         "Description": "Saionji slaps Anthy",
         "Movie": "MOVIE\\MVA03",
-        "Next_Scene_Id": "04_Arrive_Rose_Garden"
+        "Next_Scene_Id": "07_First_Options"
     },
     "07_First_Options": {
-        "Type": "Dialogue_Options",
+        "Type": "Dialogue",
         "Description": "Protagonist sees Saionji with Anthy",
         "BG_Music": "A13",
         "BG_Music_Loops": true,
         "BG_Image": "EVA04",
-        "Next_Scene_Id": "06_Saionji_Slap_Movie",
+        "Next_Scene_Id": "",
         "Dialogue": [
             {
                 "Actor": "Player",
@@ -395,6 +395,14 @@
                     }
                 ]
             }
-        ]
+        ],
+        "Options": {
+            "ID": "OptionGroup1",
+            "Description": "EVA05",
+            "Options": [
+                "I've got to help her!",
+                "Watch the situation"
+            ]
+        }
     }
 }

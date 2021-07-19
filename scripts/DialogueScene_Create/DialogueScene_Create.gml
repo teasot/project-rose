@@ -13,7 +13,8 @@ function DialogueScene_Create(){
 	RenderingDialogueItemLine = false;
 	IncrementingDialogueItemLineText = false;
 	MoveToNextDialogue = true;
-	PlayingDialogueSound = false;
+	PlayingDialogueSound = false
+	RenderingOptions = false;
 	
 	DialogueLength = ds_list_size(global.Scene_Dialogue_Array);
 	DialogueX = 25;

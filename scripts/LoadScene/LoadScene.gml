@@ -17,8 +17,11 @@ function LoadScene(Id){
 		global.Scene_BG_Music = ds_map_find_value(global.CurrentSceneObject, "BG_Music");
 		global.Scene_BG_Music_Loops = ds_map_find_value(global.CurrentSceneObject, "BG_Music_Loops");
 		global.Scene_BG_Image = ds_map_find_value(global.CurrentSceneObject, "BG_Image");
-		global.Scene_Dialogue_Array = ds_map_find_value(global.CurrentSceneObject, "Dialogue");;
-		
+		global.Scene_Dialogue_Array = ds_map_find_value(global.CurrentSceneObject, "Dialogue");
+		global.Scene_Has_Options = !is_undefined(ds_map_find_value(global.CurrentSceneObject, "Options"));
+		if(global.Scene_Has_Options){
+			global.Scene_Options = ds_map_find_value(global.CurrentSceneObject, "Options");
+		}
 	}
 	else if(global.Scene_Type == "Dialogue_Pan"){
 		global.Scene_BG_Music = ds_map_find_value(global.CurrentSceneObject, "BG_Music");
@@ -26,6 +29,10 @@ function LoadScene(Id){
 		global.Scene_BG_Image_Top = ds_map_find_value(global.CurrentSceneObject, "BG_Image_Top");
 		global.Scene_BG_Image_Bottom = ds_map_find_value(global.CurrentSceneObject, "BG_Image_Bottom");
 		global.Scene_Dialogue_Array = ds_map_find_value(global.CurrentSceneObject, "Dialogue");
+		global.Scene_Has_Options = !is_undefined(ds_map_find_value(global.CurrentSceneObject, "Options"));
+		if(global.Scene_Has_Options){
+			global.Scene_Options = ds_map_find_value(global.CurrentSceneObject, "Options");
+		}
 		global.Show_Roses_And_Border = ds_map_find_value(global.CurrentSceneObject, "Show_Roses_And_Border")
 		
 	}
