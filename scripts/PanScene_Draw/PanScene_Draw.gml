@@ -70,6 +70,6 @@ function PanScene_Draw(){
 		);
 	}
 	if(ShowDialogueBox == true){
-		Helpers_DrawDialogueBox();
+		Helpers_DrawDialogueBox(DialogueX, DialogueY, CurrentLineTextToRender, DialogueItemActorNametag, DialogueItemActorNametagIndex, AwaitingUserInput, NextIconFrame);
 	}
 }

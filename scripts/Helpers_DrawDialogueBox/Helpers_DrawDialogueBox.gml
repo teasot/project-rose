@@ -1,6 +1,14 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function Helpers_DrawDialogueBox(){
+function Helpers_DrawDialogueBox(DialogueX, DialogueY, CurrentLineTextToRender, DialogueItemActorNametag, DialogueItemActorNametagIndex, DrawNextIcon, NextIconFrame){
+	
+	// DialogueX
+	// DialogueY
+	// CurrentLineTextToRender
+	// DialogueItemActorNametag
+	// DialogueItemActorNametagIndex
+	// AwaitingUserInput
+	// NextIconFrame
 
 	// Then draw the text semit transparent rectangle
 	var BoxX = global.UniversalScale*8;
@@ -21,6 +29,7 @@ function Helpers_DrawDialogueBox(){
 	draw_set_colour(c_white);
 	draw_set_alpha(1);
 	draw_set_font(global.CurrentDialogueFont);
+	
 	// Draw the text
 	draw_text_transformed(global.UniversalScale*DialogueX, global.UniversalScale*DialogueY + global.TranslationFontExtraPadding, CurrentLineTextToRender, global.UniversalScale*global.TranslationFontScale,  global.UniversalScale*global.TranslationFontScale, 0);
 
@@ -30,10 +39,7 @@ function Helpers_DrawDialogueBox(){
 	}
 
 	// Finally add next sprite
-	if(AwaitingUserInput == true){
+	if(DrawNextIcon == true){
 		draw_sprite_ext(spr_Next, NextIconFrame, global.UniversalScale*304, global.UniversalScale*207, global.UniversalScale, global.UniversalScale, 0, c_white, 1);
 	}
-
-	// Draw the fancy border on top of that!
-	PriorTextToRender = CurrentLineTextToRender;
 }

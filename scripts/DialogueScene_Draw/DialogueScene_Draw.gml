@@ -4,5 +4,5 @@ function DialogueScene_Draw()
 {
 	// First draw the 
 	draw_sprite_ext(asset_get_index(global.Scene_BG_Image), 0, 0, 0, global.UniversalScale, global.UniversalScale, 0, c_white, 1);
-	Helpers_DrawDialogueBox();
+	Helpers_DrawDialogueBox(DialogueX, DialogueY, CurrentLineTextToRender, DialogueItemActorNametag, DialogueItemActorNametagIndex, AwaitingUserInput, NextIconFrame);
 }

@@ -50,6 +50,7 @@
     {"id":{"name":"NAME_06","path":"sprites/NAME_06/NAME_06.yy",},"order":57,},
     {"id":{"name":"NAME_10","path":"sprites/NAME_10/NAME_10.yy",},"order":17,},
     {"id":{"name":"EVA06_U","path":"sprites/EVA06_U/EVA06_U.yy",},"order":19,},
+    {"id":{"name":"Helpers_DrawOptionsBox","path":"scripts/Helpers_DrawOptionsBox/Helpers_DrawOptionsBox.yy",},"order":1,},
     {"id":{"name":"EVD107G","path":"sprites/EVD107G/EVD107G.yy",},"order":336,},
     {"id":{"name":"DialogueScene_NoMoreDialogueItems","path":"scripts/DialogueScene_NoMoreDialogueItems/DialogueScene_NoMoreDialogueItems.yy",},"order":5,},
     {"id":{"name":"LoadJson","path":"scripts/LoadJson/LoadJson.yy",},"order":1,},
