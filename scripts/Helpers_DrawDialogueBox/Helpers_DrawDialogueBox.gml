@@ -1,15 +1,6 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function Helpers_DrawDialogueBox(DialogueX, DialogueY, CurrentLineTextToRender, DialogueItemActorNametag, DialogueItemActorNametagIndex, DrawNextIcon, NextIconFrame){
-	
-	// DialogueX
-	// DialogueY
-	// CurrentLineTextToRender
-	// DialogueItemActorNametag
-	// DialogueItemActorNametagIndex
-	// AwaitingUserInput
-	// NextIconFrame
-
 	// Then draw the text semit transparent rectangle
 	var BoxX = global.UniversalScale*8;
 	var BoxY = global.UniversalScale*154;

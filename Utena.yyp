@@ -420,6 +420,7 @@
     {"id":{"name":"EVB02_D","path":"sprites/EVB02_D/EVB02_D.yy",},"order":85,},
     {"id":{"name":"EVD55","path":"sprites/EVD55/EVD55.yy",},"order":282,},
     {"id":{"name":"NAME_09","path":"sprites/NAME_09/NAME_09.yy",},"order":16,},
+    {"id":{"name":"spr_SelectHeader","path":"sprites/spr_SelectHeader/spr_SelectHeader.yy",},"order":2,},
     {"id":{"name":"SoundExample","path":"objects/SoundExample/SoundExample.yy",},"order":6,},
     {"id":{"name":"EVA11B","path":"sprites/EVA11B/EVA11B.yy",},"order":25,},
     {"id":{"name":"EVD03D","path":"sprites/EVD03D/EVD03D.yy",},"order":179,},
