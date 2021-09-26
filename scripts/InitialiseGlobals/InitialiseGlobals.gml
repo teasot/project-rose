@@ -10,7 +10,7 @@ function InitialiseGlobals(){
 	global.UniversalScale = 2;
 	
 	// The language.
-	global.LanguageKey = "EN";
+	global.LanguageKey = "JP";
 	
 	global.ScenesJsonPath = working_directory + "scenes.json";
 	global.ActorsJsonPath = working_directory + "actors.json";
@@ -27,7 +27,7 @@ function InitialiseGlobals(){
 	// Now initialise game state
 	global.Scene_NextSceneId = "Opening";
 	if(global.Debug){
-		global.Scene_NextSceneId = "05_See_Saionji";
+		global.Scene_NextSceneId = "01_Family_Opening";
 	}
 	// Load JSON
 	LoadJson();

@@ -400,8 +400,16 @@
             "ID": "OptionGroup1",
             "Description": "EVA05",
             "Options": [
-                "I've got to help her!",
-                "Watch the situation"
+                {
+                    "Text": "I've got to help her!",
+                    "NextScene":"07_First_Options_A"
+                    
+                },
+                {
+                    "Text":"Watch the situation",
+                    "NextScene":"07_First_Options_B"
+                }
+                
             ]
         }
     }
