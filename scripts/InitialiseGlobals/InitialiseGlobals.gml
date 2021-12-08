@@ -10,7 +10,7 @@ function InitialiseGlobals(){
 	global.UniversalScale = 2;
 	
 	// The language.
-	global.LanguageKey = "JP";
+	global.LanguageKey = "EN";
 	
 	global.ScenesJsonPath = working_directory + "scenes.json";
 	global.ActorsJsonPath = working_directory + "actors.json";

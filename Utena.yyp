@@ -10450,9 +10450,11 @@
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"translations.json","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/fonts","resourceVersion":"1.0","name":"Tanugo-Regular.otf","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"actors.txt","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"EN_options.json","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"EN_phrases.json","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.583",
   },
   "resourceVersion": "1.4",
   "name": "Utena",
