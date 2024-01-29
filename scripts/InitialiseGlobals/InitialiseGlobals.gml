@@ -10,9 +10,9 @@ function InitialiseGlobals(){
 	global.UniversalScale = 2;
 	
 	// The language.
-	global.LanguageKey = "EN";
+	global.LanguageKey = "EN_NANAMI";
 	
-	global.ScenesJsonPath = working_directory + "scenes.json";
+	global.ScenesJsonPath = working_directory + "NanamiScenes.json";
 	global.ActorsJsonPath = working_directory + "actors.json";
 	
 	global.TranslationsJsonPath = working_directory + "translations.json";
@@ -25,9 +25,9 @@ function InitialiseGlobals(){
 	global.LoadNextScene = true;
 	
 	// Now initialise game state
-	global.Scene_NextSceneId = "Opening";
+	global.Scene_NextSceneId = "01_Keiko_Slapped";
 	if(global.Debug){
-		global.Scene_NextSceneId = "01_Family_Opening";
+		global.Scene_NextSceneId = "01_Keiko_Slapped";
 	}
 	// Load JSON
 	LoadJson();

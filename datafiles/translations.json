@@ -6,6 +6,13 @@
         "phrases": "EN_phrases.json",
         "options": "EN_options.json"
     },
+    "EN_NANAMI":{
+        "font": "Arial",
+        "fontScale": 0.8,
+        "extraTopPadding": 0,
+        "phrases": "EN_NANAMI_phrases.json",
+        "options": "EN_NANAMI_options.json"
+    },
     "TEST":{
         "font": "Arial",
         "fontScale": 0.8,

@@ -1,0 +1,79 @@
+{
+    "01_Utena_": {
+        "Type": "Dialogue",
+        "Description": "D-Ko convinces Utena to sing a song",
+        "BG_Music": "A06",
+        "BG_Music_Loops": true,
+        "BG_Image": "BG18",
+        "Next_Scene_Id": "03_Nanami_Rose_Garden",
+        "Sprite":{
+            "sprite": "FC18A_0000006C",
+            "x-pos": 12
+        },
+        "Dialogue": [
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "Ok then, how about singing me\r\na song?",
+                        "VoiceLine": "VC17D001"
+                    },
+                    {
+                        "Text": "Pop, rock, enka, or a nursery\r\nrhyme. Anything's fine.",
+                        "VoiceLine": "VC17D002"
+                    }
+                ]
+            },
+            {
+                "Actor": "Utena",
+                "Lines": [
+                    {
+                        "Text": "Uhm... a song?\nWell, I'll give it a shot.",
+                        "VoiceLine": "VC17D003"
+                    },
+                    {
+                        "Text": "",
+                        "SoundEffect": "SE\\UTE_HAMM\\UTE_HAMM001.ogg",
+                        "VoiceLine": "",
+                        "MuteMusic": true
+                    },
+                    {
+                        "Text": "Ah, that was tiring.",
+                        "VoiceLine": "VC17D004"
+                    },
+                    {
+                        "Text": "I don't really think it pays for a\r\ncake, but since it's what you\nasked for...",
+                        "VoiceLine": "VC17D005"
+                    }
+                ]
+            },
+            {
+                "Actor": "Anthy",
+                "Lines": [
+                    {
+                        "Text": "Utena-sama, that was very good.",
+                        "VoiceLine": "VC17D006"
+                    }
+                ]
+            },
+            {
+                "Actor": "Player",
+                "Lines": [
+                    {
+                        "Text": "Thanks, Utena!\r\nThat was fun!",
+                        "VoiceLine": "VC17D007"
+                    }
+                ]
+            },
+            {
+                "Actor": "Utena",
+                "Lines": [
+                    {
+                        "Text": "Well, since you enjoyed it,\r\nI guess it's all good.",
+                        "VoiceLine": "VC17D008"
+                    }
+                ]
+            }
+        ]
+    }
+}
